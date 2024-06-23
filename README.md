@@ -1,6 +1,8 @@
 # SeeLayer
 
-2024Jun22, Electron is so kind to me, I know how to dev by Electron Fiddle.
+2024Jun23 The drag is hard to execute in Electron, but i find a way to bypass. Double click is the location of text input, with the limitation of 8 textframe, you can delete and add new textframe to achieve drag effect.
+
+2024Jun22, Electron is so kind to me, I know how to dev by Electron Fiddle. I ask Qwen the whole day, get the reliable code and the SeeLayer is much closer.
 
 2024Jun16, first DEMO was built by a coder
 
