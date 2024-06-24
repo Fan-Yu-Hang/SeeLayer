@@ -1,6 +1,6 @@
 # SeeLayer
 
-2024Jun24, The Qwen gives multiple versions with differenr functions seperately, i try to merge these codes together. Closer to willing target.
+2024Jun24, The Qwen gives multiple versions with different functions seperately, i try to merge these codes together. Closer to willing target.
 
 2024Jun23, The drag is hard to execute in Electron, but i find a way to bypass. Double click is the location of text input, with the limitation of 8 textframe, you can delete and add new textframe to achieve drag effect.
 
