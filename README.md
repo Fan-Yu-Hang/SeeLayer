@@ -1,6 +1,8 @@
 # SeeLayer
 
-2024Jun25, The logo draft is ok, use Tesla's element.
+2024Jun26, Learning VUE.
+
+2024Jun25, The logo draft is ok, use Tesla's element. After talking with 2 lawyers in Tianmuli, I realise the IP is not so complex. Especially for the software like SeeLayer, GUI and special code are key elements, and the sue strategy is decided by evaluation future market. Law protection is necessary, but if the market is big enough, i just need to enjoy my share. After lawyer meeting, a coder give me bunches of advise about architecture, pure javascript will be too hard, i need VUE.
 
 2024Jun24, The Qwen gives multiple versions with different functions seperately, i try to merge these codes together. Closer to willing target.
 
