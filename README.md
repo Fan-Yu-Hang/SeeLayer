@@ -1,6 +1,6 @@
 # SeeLayer
 
-2024Jun27, with huge rain in Hangzhou, i learn Electron and VUE
+2024Jun27, with huge rain in Hangzhou, i learn Electron systematically. The code is not so hard as i thought, due to the need is so clear, the only focus is run as a real demo.
 
 2024Jun26, Learning VUE.
 
