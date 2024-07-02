@@ -1,5 +1,6 @@
 # SeeLayer
-July1
+2024July1, Switch the PRD to prototype, i prefer jsdesign 即时设计.
+
 2024Jun30, The negotiation with 2 outsourse coders are not smooth, they claim seelayer is too advanced to dev. I have to find other ways, either intern or full-time is acceptable. I also need bunch of presentation, to attract talents join the program, introduce the advantage to potential consumer, and investors.
 
 2024Jun29, finish the electron class,《禹神：一小时快速上手Electron，前端Electron开发教程》，https://www.bilibili.com/video/BV1sE421N7M5/?spm_id_from=333.880.my_history.page.click&vd_source=0cd6298de81487a0ae2cb8b149ddfb34, i have this caption version https://ndpcdq918n.feishu.cn/docx/CyIfd1TALoxpUrx6e1GcP1aDnvd. Later with designer, we will meet the outsource coders and develop a real demo, which can talk to VC.
