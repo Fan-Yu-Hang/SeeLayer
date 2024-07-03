@@ -1,4 +1,9 @@
 # SeeLayer
+
+2024July3, talk more details with an experienced coder, less than 200hrs finish the v1.0. Talk to designer Wang, she promise to help me like she used to help of proronfly's and xinxuan's logo.
+
+2024July2, draw on jsdesign the whole day.
+
 2024July1, Switch the PRD to prototype, i prefer jsdesign 即时设计.
 
 2024Jun30, The negotiation with 2 outsourse coders are not smooth, they claim seelayer is too advanced to dev. I have to find other ways, either intern or full-time is acceptable. I also need bunch of presentation, to attract talents join the program, introduce the advantage to potential consumer, and investors.
