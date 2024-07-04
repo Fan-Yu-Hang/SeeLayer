@@ -1,4 +1,5 @@
 # SeeLayer
+2024July4, designer Wang persuade me to abadon seelayer text from logo, just 2 color board left, i am shocked due to the radical strategy. We are just start-up, not so famous as Master Card who updated their new logo with just red and orange circle. She admit that this idea make logo looks like credit card, and turns the color boards toward right-up. But now I think this is necessary because the App icon rarely has text.
 
 2024July3, talk more details with an experienced coder, less than 200hrs finish the v1.0. Talk to designer Wang, she promise to help me like she used to help of proronfly's and xinxuan's logo.
 
