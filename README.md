@@ -1,5 +1,7 @@
 # SeeLayer
 
+July6, the prototype is continuing to refine, i ignore many fundamental process. Coder Liu is patient to tell more details, and i make another keynote about 'text input frame' alternative choice.
+
 2024July5, thanks to Steve Jobs, finally i use keynote to finish the prototype animation. Jsdesign is a good tool, but transparent function need too much work. 2 days learning and working is not a waste, later we need the forum to update bunches of tutorials. And today i bought the domain seelayer.com, so lucky to own it with 78￥ per year from Aliyun, no extra fee.
 
 2024July4, designer Wang persuade me to abadon seelayer text from logo, just 2 color board left, i am shocked due to the radical strategy. We are just start-up, not so famous as Master Card who updated their new logo only with a red and an orange circles. Later she admit that this idea makes logo look like 2 cards. And then she turns the color boards from left-up toward right-up. But now I think this is necessary because the App icon on Mac rarely has text.
