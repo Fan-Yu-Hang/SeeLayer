@@ -1,4 +1,5 @@
 # SeeLayer
+July8, the forum operation is new to me, and i'm trying to be a professional product manager.
 
 July6, the prototype is continuing to refine, i ignore many fundamental process. Coder Liu is patient to tell more details, and i make another keynote about 'text input frame' alternative choice.
 
