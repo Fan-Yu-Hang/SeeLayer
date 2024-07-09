@@ -1,4 +1,7 @@
 # SeeLayer
+
+July9, well, if you don't know how to draw a UI, try to learn from a game. I've played Red Alert more than 21 years, the moment i need a menu and a tool bar, Yuri's Revenge inspire me. The voice could add on.
+
 July8, the forum operation is new to me, and i'm trying to be a professional product manager.
 
 July6, the prototype is continuing to refine, i ignore many fundamental process. Coder Liu is patient to tell more details, and i make another keynote about 'text input frame' alternative choice.
