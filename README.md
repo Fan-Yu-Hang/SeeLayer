@@ -1,4 +1,5 @@
 # SeeLayer
+July11, the Red Alert's UI satisfied 90% of SeeLayer content and operation interface. Beautiful art design, they spent much time on it, respect.
 
 July9, well, if you don't know how to draw a UI, try to learn from a game. I've played Red Alert more than 21 years, the moment i need a menu and a tool bar, Yuri's Revenge inspire me. The voice could add on.
 
