@@ -1,5 +1,5 @@
 # SeeLayer
-July15, stay up late from 14th night to 5am, luckily the Spain get the champion and several hrs later Argentina win as well. Take line 16 to Lin'an with my dad, a traveling camp is a good environment for work. And chat with our briliant coder, who point out our UI miss a lot of things.
+July15, stay up late from 14th night to 5am, luckily the Spain get the champion and several hrs later Argentina win as well. Take line 16 to Lin'an with my dad, a traveling camp is a good environment for work. And chat with our briliant coder, who point out our UI miss a lot of things. A log in interface for example, and when users change their data, what way should we save it? Like github fork the code? Or pull the request? Or like some article forum, allow to edit and submit? Me and designer need deeper changes.
 
 July14, i spent more than 12hrs to refresh the logic of SeeLayer, from main to operation interface.
 
