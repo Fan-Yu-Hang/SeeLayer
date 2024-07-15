@@ -1,5 +1,7 @@
 # SeeLayer
 
+July14, i spent more than 12hrs to refresh the logic of SeeLayer, from main to operation interface.
+
 July13, full of working on final UI.
 
 July12, 80% of the core fuctions are close to perfect.
