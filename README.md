@@ -1,5 +1,7 @@
 # SeeLayer
 
+July13, full of working on final UI.
+
 July12, 80% of the core fuctions are close to perfect.
 
 July11, the Red Alert's UI satisfied 90% of SeeLayer content and operation interface. Beautiful art design, they spent much time on it, respect.
