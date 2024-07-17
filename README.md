@@ -1,4 +1,5 @@
 # SeeLayer
+July17, i read several articles about OpenAI acquire Multi, which need an desktop entrance to get more users.
 
 July16, send intro video to many people, my senior alumnae in college(Hong Kong Baptist University) is interested, she works in HONY capital. The Page and No. animate is close to PS layer, we cannot waste too much time on it. Traditional way save the teaching time for new users.
 
