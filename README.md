@@ -2,7 +2,7 @@
 
 July16, send intro video to many people, my senior alumnae in college(Hong Kong Baptist University) is interested. The Page and No. animate is close to PS layer, we cannot waste too much time on it. Traditional way save the teaching time for new users.
 
-July15, stay up late from 14th night to 5am, luckily the Spain get the champion and several hrs later Argentina win as well. Take line 16 to Lin'an with my dad, a traveling camp is a good environment for work. And chat with our briliant coder, who point out our UI miss a lot of things. A log in interface for example, and when users change their data, what way should we save it? Like github fork the code? Or pull the request? Or like some article forum, allow to edit and submit? Me and designer need deeper changes.
+July15, stay up late from 14th night to 5am, luckily the Spain get the champion and several hrs later Argentina win as well. Take line 16 to Lin'an with my dad, a traveling camp is a good environment for work. And chat with our briliant coder Liu, who point out our UI miss a lot of things. A log in interface for example, and when users change their data, what way should we save it? Like github fork the code? Or pull the request? Or like some article forum, allow to edit and submit? Me and designer need deeper changes.
 
 July14, i spent more than 12hrs to refresh the logic of SeeLayer, from main to operation interface.
 
@@ -22,7 +22,7 @@ July6, the prototype is continuing to refine, i ignore many fundamental process.
 
 2024July4, designer Wang persuade me to abadon seelayer text from logo, just 2 color board left, i am shocked due to the radical strategy. We are just start-up, not so famous as Master Card who updated their new logo only with a red and an orange circles. Later she admit that this idea makes logo look like 2 cards. And then she turns the color boards from left-up toward right-up. But now I think this is necessary because the App icon on Mac rarely has text.
 
-2024July3, negotiate more details with an experienced coder to finish the v1.0. Talk to designer Wang, she promise to help me like she used to help of proronfly's and xinxuan's logo.
+2024July3, negotiate more details with an experienced coder Liu to finish the v1.0. Talk to designer Wang, she promise to help me like she used to help of proronfly's and xinxuan's logo.
 
 2024July2, draw on jsdesign the whole day.
 
@@ -38,7 +38,7 @@ July6, the prototype is continuing to refine, i ignore many fundamental process.
 
 2024Jun26, Learning VUE.
 
-2024Jun25, The logo draft is ok, use Tesla's element. After talking with 2 lawyers in Tianmuli, I realise the IP is not so complex. Especially for the software like SeeLayer, GUI and special code are key elements, and the sue strategy is decided by evaluation future market. Law protection is necessary, but if the market is big enough, i just need to enjoy my share. After lawyer meeting, a coder give me bunches of advise about architecture, pure javascript will be too hard, i need VUE. Here is the keynote of my project intro https://www.loom.com/share/0a34ae9eeb52447598c9104ec3cc145e?sid=b5cbd291-4412-40d6-8a03-48e694aa73d5
+2024Jun25, The logo draft is ok, use Tesla's element. After talking with 2 lawyers in Tianmuli, I realise the IP is not so complex. Especially for the software like SeeLayer, GUI and special code are key elements, and the sue strategy is decided by evaluation future market. Law protection is necessary, but if the market is big enough, i just need to enjoy my share. After lawyer meeting, coder Zhong, who is introduced by my Ali neighbor, give me bunches of advise about architecture, pure javascript will be too hard, i need VUE. Here is the keynote of my project intro https://www.loom.com/share/0a34ae9eeb52447598c9104ec3cc145e?sid=b5cbd291-4412-40d6-8a03-48e694aa73d5
 
 2024Jun24, The Qwen gives multiple versions with different functions seperately, i try to merge these codes together. Closer to willing target.
 
@@ -46,7 +46,7 @@ July6, the prototype is continuing to refine, i ignore many fundamental process.
 
 2024Jun22, Electron is so kind to me, I know how to dev by Electron Fiddle. I ask Qwen the whole day, get the reliable code and the SeeLayer is much closer.
 
-2024Jun16, first DEMO was built by a coder
+2024Jun16, Qwen gives me a lot of tech details, electron, apache, they can help me get the target. And Chrome's extension cannot work due to browser cannot be tranparent.
 
 2024May30, See-Through Layer Is All You Need
 Chinese brainstorm https://www.loom.com/share/c05cfd8f460049088207f71a91840cef?sid=ca31a040-8bce-4316-b359-b630390f984f
