@@ -1,4 +1,8 @@
 # SeeLayer
+
+
+July18, 如果华强北出了 TapXR 的平替，能迭代之前思考的定制小键盘，可以打包实现更多需求。即，作为现有键鼠输入方式的补充，也突破了 streamdeck 只能桌面办公的局限。如果定制小键盘，只能用于 SeeLayer 的办公，那么用户购买欲望会大大下降，目前我对于 TapXR 的理解，仅限于是移动办公的补充，官网演示的室内桌面输入，效率过低，唯有平板绘图的时候，切换工具比较好用
+
 July17, i read several articles about OpenAI acquire Multi, which need an desktop entrance to get more users. Just like Google spent more than 20 billion to develop Chrome. Wish my SeeLayer will be merged or acquired by a big company in China next year. And i also find the video conference app Loom is more complex than i thought, Bytedance built a similar app Says, but closed 3 years ago. Today will spend 6 hrs to analyse them deeply. The Loom is a good example for cooperation, but chinese working everionment may not suitable.
 
 July16, send intro video to many people, my senior alumnae in college(Hong Kong Baptist University) is interested, she works in HONY capital. The Page and No. animate is close to PS layer, we cannot waste too much time on it. Traditional way save the teaching time for new users.
