@@ -1,5 +1,5 @@
 # SeeLayer
-
+July20, my neighbor, Designer Zhang, quit the start-up job and will go to JD in Beijing. Today he give me several advices, like switch UI color to avoid SeeLayer and other softwares may conflict.
 
 July18, Designer Wang launch the stardard UI, using her hometown Jiangxi's green view, beautiful.
 
