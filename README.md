@@ -1,7 +1,7 @@
 # SeeLayer
 July20, my neighbor, Designer Zhang, quit from a start-up and get a JD's offer in Beijing. Today he give me several advices, like switch UI color to avoid SeeLayer and other softwares may conflict. And he met over 50 investors last year, the most impressive one is HU Zemin(胡泽民) who invest Pinduoduo(拼多多). Investors are not generous like 5 years ago due to economy ebb, they need us to improve cash earning ability. 
 
-July18, Designer Wang launch the stardard UI, using her hometown Jiangxi's green view, beautiful.
+July18, Designer Wang launch the stardard UI, the green elements comes from her hometown Jiangxi's magnificent mountain scene.
 
 了解到一款很新的硬件产品，构思如下：如果华强北出了 TapXR 的平替，能迭代之前思考的定制小键盘，可以打包实现更多需求。即，作为现有键鼠输入方式的补充，也突破了 streamdeck 只能桌面办公的局限。如果定制小键盘，只能用于 SeeLayer 的办公，那么用户购买欲望会大大下降，目前我对于 TapXR 的理解，仅限于是移动办公的补充，官网演示的室内桌面输入，效率过低，唯有平板绘图的时候，切换工具比较好用
 
