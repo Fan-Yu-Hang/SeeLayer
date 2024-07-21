@@ -1,4 +1,7 @@
 # SeeLayer
+
+July21,
+
 July20, my neighbor, Designer Zhang, quit from a start-up and get a JD's offer in Beijing. Today he give me several advices, like switch UI color to avoid SeeLayer and other softwares may conflict. And he met over 50 investors last year, the most impressive one is HU Zemin(胡泽民) who invest Pinduoduo(拼多多). Investors are not generous like 5 years ago due to the economy ebb, they need us to improve cash earning ability. 
 
 July18, Designer Wang launch the stardard UI, the green elements comes from her hometown Jiangxi's magnificent mountain scene.
