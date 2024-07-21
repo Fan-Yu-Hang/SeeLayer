@@ -1,6 +1,6 @@
 # SeeLayer
 
-July21,
+July21, me and coder Liu check the list of all functions, SeeLayer v1.0 may born in July. I have to draw several UI like operation interface and official website, which includes intro-doc to help users to understand. And donation page is also necessary, Chinese white collar has little willing to pay for a tool, the market is totally amature.
 
 July20, my neighbor, Designer Zhang, quit from a start-up and get a JD's offer in Beijing. Today he give me several advices, like switch UI color to avoid SeeLayer and other softwares may conflict. And he met over 50 investors last year, the most impressive one is HU Zemin(胡泽民) who invest Pinduoduo(拼多多). Investors are not generous like 5 years ago due to the economy ebb, they need us to improve cash earning ability. 
 
