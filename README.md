@@ -1,5 +1,7 @@
 # SeeLayer
-July25, 
+July26, dark-mode and other interfaces lack of details.
+
+July25, after a sick, i back to work
 
 July21, me and coder Liu check the list of all functions, SeeLayer v1.0 may born in July. I have to draw several UI like operation interface and official website, which includes intro-doc to help users to understand. And donation page is also necessary, Chinese white collar has little willing to pay for a tool, the market is totally amature.
 
