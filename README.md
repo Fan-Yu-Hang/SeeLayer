@@ -1,4 +1,7 @@
 # SeeLayer
+
+July,27
+
 July26, dark-mode and other interfaces lack of details.
 
 July25, after a sick, i back to work
