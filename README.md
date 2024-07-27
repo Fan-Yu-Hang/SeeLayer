@@ -1,8 +1,8 @@
 # SeeLayer
 
-July,27
+July27, my pre-colleage recommend an experienced project manager in the morning, after lunch, i decide to meet her.
 
-July26, dark-mode and other interfaces lack of details.
+July26, dark-mode and other interfaces lack of details, talk with coder Liu 2 hrs, he persuade me to find a professional project manager to design the pro fuctions.
 
 July25, after a sick, i back to work
 
