@@ -1,6 +1,6 @@
 # SeeLayer
 
-July27, my pre-colleage recommend an experienced project manager in the morning, after lunch, i decide to meet her.
+July27, my pre-colleage recommend an experienced project manager Mrs. Xia in the morning, after lunch, i decide to meet her. Not just we live not far, but she is the fastest to understand SeeLayer's intention and propose several valuable questions. We drink coffee and brainstorm the future form. Although in 3 hrs we cannot organize each possibilies, the way you see must be Slide+Audio. This is a brand-new form to supplement video tutorial.
 
 July26, dark-mode and other interfaces lack of details, talk with coder Liu 2 hrs, he persuade me to find a professional project manager to design the pro fuctions.
 
