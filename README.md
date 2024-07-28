@@ -6,7 +6,7 @@ Meeting memo:Why do we need to share our work logs?
 
 1. As an accumulation of trivial work matters; to help with memory. Perhaps a difficulty reoccurs again, and you can review whether it has been solved at that time, or colleagues may a way to help solve it now.
 2. As a pasting material for weekly and monthly reports, avoid the formalism of large companies, which spending a lot of time writing reports. The priority is creating products.
-3. As a defensive weapon against the law; in government, many civil servants have the habit of logging to prevent villains from blaming; when SeeLayer go overseas, we may encounter evil lawsuits. The growth logs (including GitHub’s readme) are very beneficial to the law. evidence
+3. As a defensive weapon against the lawsuit; in government, many civil servants have the habit of daily logging to prevent villains from blaming; when SeeLayer go overseas, we may encounter evil lawyers. The growth logs (including GitHub’s readme) are very beneficial to be an evidence.
 
 July27, former colleague recommend an experienced project manager Mrs. Xia in the morning, after lunch, i decide to meet her. Not just we live not far in Hangzhou, but less than 20 min online talk is so smooth. She is the fastest one to understand SeeLayer's intention and propose several valuable questions, 15 yrs PM career made her knowledgeable. We sort of worked in a same blockchain company, she was in rivtower and this company comes form cryptape which i worked for several months in 2019. We drink coffee and brainstorm the future form. Although in just 3 hrs cannot list each possibilies, the final version you see must be Slide+Audio. This is a brand-new form to supplement video tutorial.
 
