@@ -4,7 +4,7 @@ July28, perhaps our target is to sevice the collaborative office, transparent la
 
 Meeting memo:Why do we need to share our work logs?
 
-1. As an accumulation of incidential work matters; to help with memory. Perhaps a difficulty reoccurs again, and you can review whether it has been solved at that time, or colleagues may a way to help solve it now.
+1. As an accumulation of incidential work matters, to help pick up memory. Perhaps a difficulty reoccurs again, and you can review whether it has been solved at that time, or colleagues may a way to help solve it now.
 2. As a pasting material for weekly and monthly reports, avoid the formalism of large companies, which spending a lot of time writing reports. The priority is creating products.
 3. As a defensive weapon against the lawsuit; in government, many civil servants have the habit of daily logging to prevent villains from blaming; when SeeLayer go overseas, we may encounter evil lawyers. The growth logs (including GitHub’s readme) are very beneficial to be an evidence.
 
