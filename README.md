@@ -1,5 +1,7 @@
 # SeeLayer
 
+July28, perhaps our target is to sevice the collaborative office, transparent layer is benefit for bunches of jobs. When 
+
 July27, former colleague recommend an experienced project manager Mrs. Xia in the morning, after lunch, i decide to meet her. Not just we live not far in Hangzhou, but less than 20 min online talk is so smooth. She is the fastest one to understand SeeLayer's intention and propose several valuable questions, 15 yrs PM career made her knowledgeable. We sort of worked in a same blockchain company, she was in rivtower and this company comes form cryptape which i worked for several months in 2019. We drink coffee and brainstorm the future form. Although in just 3 hrs cannot list each possibilies, the final version you see must be Slide+Audio. This is a brand-new form to supplement video tutorial.
 
 July26, dark-mode and other interfaces lack of details, talk with coder Liu 2 hrs, he persuade me to find a professional project manager to design the pro fuctions.
