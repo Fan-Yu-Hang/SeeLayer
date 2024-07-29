@@ -1,5 +1,7 @@
 # SeeLayer
 
+July29, if you own a project, investors will be ubiquitous.
+
 July28, perhaps our target is to sevice the collaborative office, transparent layer is benefit for bunches of jobs.
 
 Meeting memo:Why do we need to share our work logs?
