@@ -1,4 +1,5 @@
 # SeeLayer
+July30, i share 2 biographies about Nintendo and Instagram to team, these entrepreneur are so energetic and smart, who encourage our little project to grow up stronger.
 
 July29, if you own a project, investors will be ubiquitous.
 
