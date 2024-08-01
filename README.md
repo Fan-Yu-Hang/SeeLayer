@@ -1,5 +1,5 @@
 # SeeLayer
-2024Aug1, I may walk to the road which Instagram has been through, like this article menstion. One reason is that they are so familiar with these network tools.
+2024Aug1, I may walk to the road which Instagram has been through, like this article menstion. One reason is that they are so familiar with these network tools. Ins has billions of photo, and SL has billions of photo and location data on screen as well.
 《3个中国程序员 vs 3个美国程序员，不得不承认，差距太大了！》https://applink.feishu.cn/client/message/link/open?token=AmaJBmgWhQAcZquejHBegAE%3D
 
 July30, i share 2 biographies about Nintendo and Instagram to team, these entrepreneur are so energetic and smart, who encourage our little project to grow up stronger.
