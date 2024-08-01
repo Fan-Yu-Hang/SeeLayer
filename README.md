@@ -1,5 +1,5 @@
 # SeeLayer
-2024Aug1, I may walk to the road which Instagram has been through, like this article menstion. One reason is that they are so familiar with these network tools. Ins has billions of photo, and SL has billions of photo and location data on screen as well.
+2024Aug1, I may walk to the road which Instagram has been through, like this article mention. One reason is that they are so familiar with these network tools. Ins has billions of photo, and SL has billions of photo and location data on screen as well.
 
 https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million
 
