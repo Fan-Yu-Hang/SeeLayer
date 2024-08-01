@@ -1,4 +1,7 @@
 # SeeLayer
+2024Aug1, I may walk to the road which Instagram has been through, like this article menstion. One reason is that they are so familiar with these network tools.
+《3个中国程序员 vs 3个美国程序员，不得不承认，差距太大了！》https://applink.feishu.cn/client/message/link/open?token=AmaJBmgWhQAcZquejHBegAE%3D
+
 July30, i share 2 biographies about Nintendo and Instagram to team, these entrepreneur are so energetic and smart, who encourage our little project to grow up stronger.
 
 July29, if you own a project, investors will be ubiquitous.
