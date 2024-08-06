@@ -1,5 +1,5 @@
 # SeeLayer
-Aug6, not just my app, js.design could help me to analyse other's app prototype. I used to critisize interfaces are not perfect or against our habit. Well, it's time to transfer my word to image and logic.
+Aug6, not just my app, js.design could help me to analyse other app prototype. I used to critisize interfaces are not perfect or against our habit. Well, it's time to transfer my word to image and logic.
 
 Aug2, i think auto-play is necessary, set a 3s gap to allow users find software button. If constantly move from dock to software, that would be too annoying.
 
