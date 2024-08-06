@@ -1,7 +1,7 @@
 # SeeLayer
 Aug6, not just my app, js.design could help me to analyse other app prototype. I used to critisize interfaces are not perfect or against our habit. Well, it's time to transfer my word to image and logic.
 
-Aug2, i think auto-play is necessary, set a 3s gap to allow users find software button. If constantly move from dock to software, that would be too annoying.
+Aug2, i think auto-play is necessary, set a 3 seconds No. show up to allow users find software button. If constantly move from dock to software, that would be too annoying.
 
 2024Aug1, I may walk to the road which Instagram has been through, like this article mention. One reason is that they are so familiar with these network tools. Ins has billions of photo, and SL has billions of photo and location data on screen as well.
 
