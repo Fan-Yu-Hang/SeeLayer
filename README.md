@@ -1,8 +1,10 @@
 # SeeLayer
 
-Aug7, coder Liu suggest to change the prototype due to interactive experience is bad.
+Aug7, watch a live frome GeekPark(极客公园)about character.ai selling to Google, although the result likes philosophy, details they mention impress me a lot. Such as, if c.ai's CEO is not Noam Shazeer, but Zhang Xiaolong from WeChat or Zhang Yiming from Bytedace, both can make a huge achievement. And last year, investors prefer infrastructure to app, which is not a good source for me.
 
-Aug6, not just my app, js.design could help me to analyse other app prototype. I used to critisize interfaces are not perfect or against our habit. Well, it's time to transfer my word to image and logic.
+Aug6, coder Liu suggest to change the prototype due to interactive experience is bad.
+
+Aug5, not just my app, js.design could help me to analyse other app prototype. I used to critisize interfaces are not perfect or against our habit. Well, it's time to transfer my word to image and logic.
 
 Aug2, i think auto-play is necessary, set a 3 seconds No. show up to allow users find software button. If constantly move from dock to software, that would be too annoying.
 
