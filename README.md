@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug7, watch a live from FounderPark(极客公园)about character.ai selling to Google, although the whole topic is like a philosophy session, details they mention impress me a lot. Such as, if c.ai's CEO is not Noam Shazeer, but Zhang Xiaolong from WeChat or Zhang Yiming from Bytedace, both can make a huge achievement. And last year, investors prefer infrastructure to app, which is not a good source for me.
+Aug7, watch a live from FounderPark(极客公园)about character.ai selling to Google, although the whole topic is like a philosophy session, details they mention impress me a lot. Such as, if c.ai's CEO is not Noam Shazeer, but Zhang Xiaolong from WeChat or Zhang Yiming from Bytedace, both can make a huge achievement. And last year, investors prefer infrastructure to app, which is not a good source for me. However, the individual entrepreneur also has chance, funny app and tools for industry always emerging.
 
 Aug6, coder Liu suggest to change the prototype due to interactive experience is bad.
 
