@@ -1,4 +1,6 @@
 # SeeLayer
+Aug8, strapi is good to manage backend.
+
 Aug8, first time to Ning Bo, 2nd largest city in Zhejiang province. The home appliance suppliers are so professional.
 
 Aug7, watch a live from FounderPark(极客公园)about character.ai selling to Google, although the whole topic is like a philosophy session, details they mention impress me a lot. Such as, if c.ai's CEO is not Noam Shazeer, but Zhang Xiaolong from WeChat or Zhang Yiming from Bytedace, both can make a huge achievement. And last year, investors prefer infrastructure to app, which is not a good source for me. However, the individual entrepreneur also has chance, funny app and tools for industry always emerging. And for Chinese start-up should know that overseas opportunities are much larger than motherland. Creators in Silicon Valley are not so sharp to beat any opponents. Investor WANG Hua is full of knowledge and foresight, he suggest not for fake AI but for app first. Product can help users to improve the efficiency is the priority. I am so happy to know him, what i've done on SeeLayer is 100% match, ready to meet him at Beijing.
