@@ -1,4 +1,6 @@
 # SeeLayer
+Aug12, 
+
 Aug9, the sales model is important. My father suggest to get discount or coupon.
 
 Aug8, strapi is good to manage backend.
