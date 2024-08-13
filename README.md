@@ -1,9 +1,9 @@
 # SeeLayer
 Aug12, 
 
-Aug9, the sales model is important. My father suggest to get discount or coupon.
+Aug10, the sales model is important. My father suggest to get discount or coupon.
 
-Aug8, strapi is good to manage backend.
+Aug9, strapi is good to manage backend.
 
 Aug8, first time to Ning Bo, 2nd largest city in Zhejiang province. The home appliance suppliers are so professional.
 
