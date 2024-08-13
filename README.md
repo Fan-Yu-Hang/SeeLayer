@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug13, didn't expect OpenAI just apply 10 patents in 2023, but those could built the foundation of AI infrastructure. 
+Aug13, didn't expect OpenAI just apply 10 patents in 2023, but those could built the foundation of AI infrastructure. But we need to learn 
 
 Aug12, 
 
