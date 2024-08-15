@@ -1,8 +1,12 @@
 # SeeLayer
+Aug15, read an article about search engine and ad, learn a lot. I'm shocked about Aravind Srinivas's age, 1994, one year younger than me. https://mp.weixin.qq.com/s/w_SAaojLO3l62YVHJzdAiw
+
+全文有 24 处提到广告，广告收入也是 SeeLayer 非常重要的一环，我们甚至会模糊 toB 和 toC 之间的广告投放，除了传统企业，个人开发者也会来这个垂直的说明书平台，介绍自己的新发明，个人用户也会来分享自己的办公技巧，这些都是一种定向社交，2024Aug14 我了解到古早的 QQ 浏览器，以及这个插件 Side Project，都能和正在浏览同一网页的陌生人聊天，这是非常优秀的匹配机制，所谓远亲不如近邻，有相同兴趣点的用户，更像精神上的邻居。
+另外，Aravind Srinivas 对于产品对应的场景，也是见解独到，比如第 5、第 7 段的 Instagram、WhatsApp，用户会对这些应用，有什么期待，哪些功能会招致反感，这是很多国内创业者不太清楚的边界感，总觉得几行代码而已，我也能加上。
+
+原视频 Aravind Srinivas:Will Foundation Models Commoditise & Diminishing Returns in Model Performance|E1161 https://www.youtube.com/watch?v=4jPg4Se9h5g
 
 Aug13, didn't expect OpenAI just apply 10 patents in 2023, but those could built the foundation of AI infrastructure. But we need to prepare SeeLayer's IP, like CV or AI Agent.
-
-Aug12, 
 
 Aug10, the sales model is important. My father suggest to get discount or coupon.
 
