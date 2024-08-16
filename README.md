@@ -1,4 +1,8 @@
 # SeeLayer
+Aug16, duolingo shock me as well. Like the video mentioned, only 8.6% of its users pay, and less than 8% of its revenue comes from advertising, a free educational app manage to also have a valuation of $7.7 billion. Rely on  AI, A/B testing, mascot, and 
+<How Duolingo Rakes in $500M Yearly When 80% of Its Users Don’t Pay> by WSJ
+Link:https://www.youtube.com/watch?v=9KqrnBiyBQ8
+
 Aug15, read an article about search engine and ad, learn a lot. I'm shocked about Aravind Srinivas's age, 1994, one year younger than me. https://mp.weixin.qq.com/s/w_SAaojLO3l62YVHJzdAiw
 
 全文有 24 处提到广告，广告收入也是 SeeLayer 非常重要的一环，我们甚至会模糊 toB 和 toC 之间的广告投放，除了传统企业，个人开发者也会来这个垂直的说明书平台，介绍自己的新发明，个人用户也会来分享自己的办公技巧，这些都是一种定向社交，2024Aug14 我了解到古早的 QQ 浏览器，以及这个插件 Side Project，都能和正在浏览同一网页的陌生人聊天，这是非常优秀的匹配机制，所谓远亲不如近邻，有相同兴趣点的用户，更像精神上的邻居。
