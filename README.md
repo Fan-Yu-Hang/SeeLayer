@@ -1,5 +1,7 @@
 # SeeLayer
-Aug16, duolingo shock me as well. Like the video mentioned, only 8.6% of its users pay, and less than 8% of its revenue comes from advertising, a free educational app manage to also have a valuation of $7.7 billion. Rely on  AI, A/B testing, mascot, and 
+Aug16, i continue to learn from other tool app, duolingo shock me as well. Like the video mentioned, only 8.6% of its users pay, and less than 8% of its revenue comes from advertising, a free educational app manage to also have a valuation of $7.7 billion. Rely on  AI, A/B testing, mascot, and gamification strategy.
+Especially for SeeLayer, gamification is our priority, even more important than software instruction list. Our user's must feel toxic to learn the next step, they are willing to share to colleage or friends. And for those who are obsessed with the instruction, gamification make the process fun.
+
 <How Duolingo Rakes in $500M Yearly When 80% of Its Users Don’t Pay> by WSJ
 Link:https://www.youtube.com/watch?v=9KqrnBiyBQ8
 
