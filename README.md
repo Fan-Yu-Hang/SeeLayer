@@ -3,7 +3,7 @@ Aug16, i continue to learn from other tool apps, duolingo shock me as well. Like
 Especially for SeeLayer, gamification is our priority, even more important than software instruction list. Our users must feel toxic to learn the next step, they are willing to share to colleage or friends. And for those who are obsessed with the instruction making, gamification make the process fun.
 
 <How Duolingo Rakes in $500M Yearly When 80% of Its Users Don’t Pay> by WSJ
-Link:https://www.youtube.com/watch?v=9KqrnBiyBQ8
+video https://www.youtube.com/watch?v=9KqrnBiyBQ8
 
 Aug15, read an article about search engine and ad, learn a lot. I'm shocked about Aravind Srinivas's age, 1994, one year younger than me. https://mp.weixin.qq.com/s/w_SAaojLO3l62YVHJzdAiw
 
