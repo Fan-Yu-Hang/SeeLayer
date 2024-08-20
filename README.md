@@ -1,4 +1,6 @@
 # SeeLayer
+Aug20, meet up coder Jiang. He is happy about SeeLayer, and give me several interaction advices.
+
 Aug16, i continue to learn from other tool apps, duolingo shock me as well. Like the video mentioned, only 8.6% of its users pay, and less than 8% of its revenue comes from advertising, a free educational app manage to also have a valuation of $7.7 billion. Rely on  AI, A/B testing, mascot, and gamification strategy.
 Especially for SeeLayer, gamification is our priority, even more important than software instruction list. Our users must feel toxic to learn the next step, they are willing to share to colleage or friends. And for those who are obsessed with the instruction making, gamification make the process fun.
 
