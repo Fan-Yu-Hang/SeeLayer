@@ -2,7 +2,7 @@
 
 Aug21, write an article about western manufacture competitiveness. I mention the Pangdonglai, and 3 German examples, finally bring seelayer ad.
 
-From Zhihu(Chinese Quora)为啥西方列强最后全不行了？ - 樊宇航ProtonFly的回答 - 知乎https://www.zhihu.com/question/460725043/answer/3601664584
+From Zhihu (Chinese Quora) 为啥西方列强最后全不行了？ - 樊宇航ProtonFly的回答 - 知乎https://www.zhihu.com/question/460725043/answer/3601664584
 
 Aug20, meet up with coder Jiang in EFC. He is happy about SeeLayer, and give me several interaction advices. In mac, maximize interface will create a new desktop which mouse cannot penetrate to work. So the green-button should be desktop-maximize. And he introduce how his boss find investor, recite all details about investor's company history, CEO's hobby. With a chance encounter infront of door gate, with a 5 min talk, investor show interest on him. This wild experience is totally unusual due to billionaire will set a process to prearrange timetable.
 
