@@ -1,5 +1,7 @@
 # SeeLayer
 
+Aug21, write an article about western 
+
 Aug20, meet up with coder Jiang in EFC. He is happy about SeeLayer, and give me several interaction advices. In mac, maximize interface will create a new desktop which mouse cannot penetrate to work. So the green-button should be desktop-maximize. And he introduce how his boss find investor, recite all details about investor's company history, CEO's hobby. With a chance encounter infront of door gate, with a 5 min talk, investor show interest on him. This wild experience is totally unusual due to billionaire will set a process to prearrange timetable.
 
 Aug16, i continue to learn from other tool apps, duolingo shock me as well. Like the video mentioned, only 8.6% of its users pay, and less than 8% of its revenue comes from advertising, a free educational app manage to also have a valuation of $7.7 billion. Rely on  AI, A/B testing, mascot, and gamification strategy.
