@@ -1,4 +1,5 @@
 # SeeLayer
+Aug23,
 
 Aug21, write an article about western manufacture competitiveness. I mention the Pangdonglai, and 3 German examples, finally bring a seelayer ad.
 
