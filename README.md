@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug24, i write an Email to a coder, who help me to optimise a bilibili-comment-download Chrome plug-in.
+Aug24, i write an Email to a coder, who help me to optimise a bilibili-comment-download(B站评论助手) Chrome plug-in.
 
 Aug23, the account setting is too complex. The WordPress, for instance, has over 100 choices. Users may 
 
