@@ -1,5 +1,6 @@
 # SeeLayer
-Aug23, the
+
+Aug23, the account setting is too complex. The WordPress, for instance, 
 
 Aug21, write an article about western manufacture competitiveness. I mention the Pangdonglai, and 3 German examples, finally bring a seelayer ad.
 
