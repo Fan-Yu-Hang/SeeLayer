@@ -1,6 +1,8 @@
 # SeeLayer
 
-Aug23, the account setting is too complex. The WordPress, for instance, 
+
+
+Aug23, the account setting is too complex. The WordPress, for instance, has over 100 choices. Users may 
 
 Aug21, write an article about western manufacture competitiveness. I mention the Pangdonglai, and 3 German examples, finally bring a seelayer ad.
 
