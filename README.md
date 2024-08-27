@@ -4,7 +4,7 @@ Aug26, i know little about Discord. A new product need the PMF(Product Market Fi
 
 Aug24, i write an Email to a coder, who help me to optimise a bilibili-comment-download(B站评论助手) Chrome plug-in. I respect every types engineer, if we know little about plug-in, ask him to build is a better choice.
 
-Aug23, the account setting is too complex. The WordPress, for instance, has over 100 choices. Users may 
+Aug23, the account setting is too complex. The WordPress, for instance, has over 100 choices. Users may tired about those details, rather than study game tricks to enter next level. I quit to use web tool, Notion + domain is good.
 
 Aug21, write an article about western manufacture competitiveness. I mention the Pangdonglai, and 3 German examples, finally bring a seelayer ad.
 
