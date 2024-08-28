@@ -1,5 +1,7 @@
 # SeeLayer
 
+Aug27, finally find a instruction demo https://discord.com/blog/how-to-use-discord-apps. There are many apps waiting to add on Discord, so does SeeLayer.
+
 Aug26, i know little about Discord. A new product need the PMF(Product Market Fit), Discord is a good platform to verify. China doesn't has a open platform like this, luckily SeeLayer foucsing on the market abroad.
 
 Aug24, i write an Email to a coder, who help me to optimise a bilibili-comment-download(B站评论助手) Chrome plug-in. I respect every types engineer, if we know little about plug-in, ask him to build is a better choice.
