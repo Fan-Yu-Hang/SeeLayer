@@ -1,4 +1,5 @@
 # SeeLayer
+Aug30, Nitro is not free? I try the discord and find Nitro, an emoji is totally free to me. But i could learn from this strategy
 
 Aug27, finally find a instruction demo https://discord.com/blog/how-to-use-discord-apps. There are many apps waiting to add on Discord, so does SeeLayer.
 
