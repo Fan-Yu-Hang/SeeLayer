@@ -1,10 +1,10 @@
 # SeeLayer
 
-Oct7, 
+2024Oct7, We have to set multiple functions to match multiple users.
 
 Sep30,
 
-11,besides pay to play, SaaS, there are several types of payment. I read an article about game history, it is helpful to build SeeLayer payment.
+Sep11,besides pay to play, SaaS, there are several types of payment. I read an article about game history, it is helpful to build SeeLayer payment.
 买断制游戏为什么是最烂的商业模式？https://mp.weixin.qq.com/s/fnmGXE19NaVZ_rh43OwvUQ
 
 2024Sep10, Official web online.
