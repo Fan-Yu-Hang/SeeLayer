@@ -1,6 +1,6 @@
 # SeeLayer
 
-2024Oct7, We have to set multiple functions to match multiple users.
+2024Oct7, We have to set multiple functions to match multiple users. What DouYin moves me, is that balance the clean interface and multiple functions, if you are not the target user, may never notice these details. You take an iPhone, repost a sigle comment is ok. The iPad, however, cancel this.
 
 Sep30,
 
