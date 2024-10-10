@@ -1,10 +1,9 @@
 # SeeLayer
+Oct10,
 
 Oct8, I thought the mobile version SeeLayer is impossible, but today a new app on iPad may allow it happen. Next year, we could develop desktop and mobile SeeLayer simultaneously.
 
 2024Oct7, We have to set multiple functions to match multiple users. What DouYin (TikTok Chinese version) moves me, is that balance the clean interface and multiple functions, if you are not the target user, may never notice these details. You take an iPhone, repost a sigle comment as instant message to friend is available. The iPad, however, is not capable. The iPhone can also upload live photo as a video, or leave live photo comment under the video, android users are limited to watch. Furthermore, right-bottom corner sometimes show a camera icon, which helps the origional music widely spread. I'm a sensetive guy to collect BGM, to prepare use it in the future, it helps.
-
-Sep30,
 
 Sep11,besides pay to play, SaaS, there are several types of payment. I read an article about game history, it is helpful to build SeeLayer payment.
 买断制游戏为什么是最烂的商业模式？https://mp.weixin.qq.com/s/fnmGXE19NaVZ_rh43OwvUQ
