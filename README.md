@@ -9,7 +9,9 @@ Sep30,
 Sep11,besides pay to play, SaaS, there are several types of payment. I read an article about game history, it is helpful to build SeeLayer payment.
 买断制游戏为什么是最烂的商业模式？https://mp.weixin.qq.com/s/fnmGXE19NaVZ_rh43OwvUQ
 
-2024Sep10, Official web online.
+Sep10, Official web online.
+
+2024Sep2, I have a good metaphor. If pirates want to explore a territorial waters, they need a pilot who new a best line. SeeLayer is that pilot.
 
 Aug30, Nitro is not free? I try the discord and find Nitro, an emoji is totally free to me. But i could learn from this strategy.
 https://help.playbackbone.com/hc/en-us/articles/4577648803095-Who-is-Eligible-to-Redeem-the-Discord-Nitro-Offer
