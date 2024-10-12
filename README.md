@@ -1,5 +1,5 @@
 # SeeLayer
-Oct10,
+Oct13,
 
 Oct8, I thought the mobile version SeeLayer is impossible, but today a new app on iPad may allow it happen. Next year, we could develop desktop and mobile SeeLayer simultaneously.
 
