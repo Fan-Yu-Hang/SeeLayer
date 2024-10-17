@@ -1,4 +1,8 @@
 # SeeLayer
+Oct17,
+
+Oct16, take a dinner with coder Qian and his colleage coder He who can manage backend.
+
 Oct15, My neighbor, coder Qian mention about email log in, and other back-end system.
 
 Oct8, I thought the mobile version SeeLayer is impossible, but today a new app on iPad may allow it happen. Next year, we could develop desktop and mobile SeeLayer simultaneously.
