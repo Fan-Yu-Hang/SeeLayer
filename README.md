@@ -1,5 +1,5 @@
 # SeeLayer
-Oct18,
+Oct18, we could add voice on the script.
 
 Oct16, take a dinner with coder Qian and his colleage coder He who can manage backend.
 
