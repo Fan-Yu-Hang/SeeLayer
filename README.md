@@ -1,5 +1,5 @@
 # SeeLayer
-Oct19, I play the game Shawarma Legend. There are some analysis about why this game is popular, free on iPad, excellent design, and most important is music. Many web star dancing and meme on Douyin.
+Oct19, I play the game Shawarma Legend. There are some analysis about why this game is popular, free on iPad, excellent design, and most important is music. Many web star dancing and meme on Douyin. The similar game, however, is not welcome.(WeChat Link 游民星空) https://mp.weixin.qq.com/s/Q1ptLZPmtStRyp6jNsyKCQ
 
 Oct18, we could add voice on the script.
 
