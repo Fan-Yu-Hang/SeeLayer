@@ -9,7 +9,7 @@ Oct16, take a dinner with coder Qian and his colleage coder He who can manage ba
 
 Oct15, My neighbor, coder Qian mention about email log in, and other back-end system.
 
-Oct8, I thought the mobile version SeeLayer is impossible, but today a new app on iPad may allow it happen. Next year, we could develop desktop and mobile SeeLayer simultaneously.
+Oct9, I thought the mobile version SeeLayer is impossible, but today a new app on iPad may allow it happen. Next year, we could develop desktop and mobile SeeLayer simultaneously.
 
 2024Oct7, We have to set multiple functions to match multiple users. What DouYin (TikTok Chinese version) moves me, is that balance the clean interface and multiple functions, if you are not the target user, may never notice these details. You take an iPhone, repost a sigle comment as instant message to friend is available. The iPad, however, is not capable. The iPhone can also upload live photo as a video, or leave live photo comment under the video, android users are limited to watch. Furthermore, right-bottom corner sometimes show a camera icon, which helps the origional music widely spread. I'm a sensetive guy to collect BGM, to prepare use it in the future, it helps.
 
