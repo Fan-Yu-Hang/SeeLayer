@@ -1,4 +1,6 @@
 # SeeLayer
+Oct19, I play the game Shawarma Legend.
+
 Oct18, we could add voice on the script.
 
 Oct16, take a dinner with coder Qian and his colleage coder He who can manage backend.
