@@ -1,4 +1,6 @@
 # SeeLayer
+Oct22, i'm not sure how possible SeeLayer may become a mini LinkedIn, but instruction software may gather similar users.
+
 Oct20, Shawarma Legned is poison. Misson all clear in 5 hrs, the AI music makes it fun. I ask my junior sister from UIC, Mrs. He, who focus on sound work in video game company. She say those games use professional software like Unity, Unreal, with built-in voice pack. SeeLayer just need voice service (Text To Speech), or record manually.
 
 Oct19, I play the game Shawarma Legend. There are some analysis about why this game is popular, free on iPad, excellent design, and most important is music. Many web star dancing and meme on Douyin. The similar game, however, is not welcome.(WeChat Link 游民星空) https://mp.weixin.qq.com/s/Q1ptLZPmtStRyp6jNsyKCQ
