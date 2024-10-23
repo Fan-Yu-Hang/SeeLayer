@@ -1,5 +1,5 @@
 # SeeLayer
-Oct22, i'm not sure how possible SeeLayer may become a mini LinkedIn, but instruction software may gather similar users. Last year i bring a concept named Spider-Diagram, which allow users to put urgent demands in the center, if your 
+Oct22, i'm not sure how possible SeeLayer may become a mini LinkedIn, but instruction software may gather similar users. Last year i bring a concept named Spider-Diagram, which allow users to put urgent demands in the center, if your demands belongs to long-term like single want THE ONE, that would be outside circle, just like spider cobweb.
 
 Oct20, Shawarma Legned is poison. Misson all clear in 5 hrs, the AI music makes it fun. I ask my junior sister from UIC, Mrs. He, who focus on sound work in video game company. She say those games use professional software like Unity, Unreal, with built-in voice pack. SeeLayer just need voice service (Text To Speech), or record manually.
 
