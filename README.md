@@ -1,6 +1,6 @@
 # SeeLayer
 
-Oct26, play tennis with my former colleague, project manager Mrs. Zhou with her Husband. I ask several question about 
+Oct26, play tennis with my former colleague, project manager Mrs. Zhou with her Husband Mr. Li. I ask several question about how to improve SeeLayer, Li suggest to larger the LOCK icon, because this is the key function. Or I can use logo as the LOCK button, make sure eye-catching.
 
 Oct22, i'm not sure how possible SeeLayer may become a mini LinkedIn, but instruction software may gather similar users. Last year i bring a concept named Spider-Diagram, which allow users to put urgent demands in the center, if your demands belongs to long-term like single want THE ONE, that would be on the outside circle, just like a spider cobweb. In China, every one use WeChat, few elites use co-working app like Lark(Feishu). We need a platform to show our demands, but we have little chance to express that. If we put everything on a business card, it seems like too frivolous to society. My suggestion is these text or images should rely on social software like WeChat or TikTok, not exist independently. In 2023, WeChat upgrade to allow our Moments(朋友圈) have several on top, it's a way to solve what i mention before.
 
