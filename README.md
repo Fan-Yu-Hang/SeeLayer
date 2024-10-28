@@ -1,4 +1,5 @@
 # SeeLayer
+Oct28, i ignore a group of instructions for a long time, Operation System.
 
 Oct26, play tennis with my former colleague, project manager Mrs. Zhou with her Husband Mr. Li. I ask several question about how to improve SeeLayer, Li suggest to larger the LOCK icon, because this is the key function. Or I can use logo as the LOCK button, make sure eye-catching.
 
