@@ -1,5 +1,5 @@
 # SeeLayer
-Oct30,
+Oct31
 
 Oct28, i ignore a group of instructions for a long time, Operation System. For instance, MacOS owns a typically clean UI, it hide many unusual functions. Let's use botton OPTION as 3 examples.
 
