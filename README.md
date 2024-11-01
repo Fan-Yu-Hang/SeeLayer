@@ -1,5 +1,5 @@
 # SeeLayer
-Oct31,
+Oct31, with URL Scheme, links from official web could open the SeeLayer App on Mac.
 
 Oct28, i ignore a group of instructions for a long time, Operation System. For instance, MacOS owns a typically clean UI, it hide many unusual functions. Let's use botton OPTION as 3 examples.
 
