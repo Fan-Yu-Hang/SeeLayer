@@ -1,5 +1,5 @@
 # SeeLayer
-Nov1, learning Japanese is convenient to recognize Chinese characters, but hard to pronounce. Like this sentence, I am a Chinese, 私は中国人です(Janpanese), 我是中国人(Chinese).
+Nov1, learning Japanese is convenient to recognize Chinese characters, but hard to pronounce. Like this sentence, I am Chinese, 私は中国人です(Janpanese), 我是中国人(Chinese).
 
 Oct31, with URL Scheme, links from official web could open the SeeLayer App on Mac.
 
