@@ -1,4 +1,7 @@
 # SeeLayer
+
+Nov4, coder Qian test the URL Scheme, a link could open the App, but we cannot sure whether single instruction could open. To be continue...
+
 Nov1, learning Japanese is convenient to recognize Chinese characters, but hard to pronounce. Like this sentence, I am Chinese, 私は中国人です(Janpanese), 我是中国人(Chinese).
 
 Oct31, with URL Scheme, links from official web could open the SeeLayer App on Mac.
