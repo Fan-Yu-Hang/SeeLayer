@@ -1,12 +1,17 @@
 # SeeLayer
 
-Nov18, in my view, there are 3 ways to build our 
+Nov18, in my view, there are 3 ways to build our official web.
+1-3 no forum, just table of softwares. It's easy to write, but no place to communicate, we must use 3rd tool like Discord. In the future it is chaos.
+2-3 forum and table are seperate. Also not hard to write, for coder just need 2 subpages, 1 for table and 1 for forum. There are many examples to copy.
+3-3 forum comes more important, but table is on the main page. The user interface is clean, if you are new to SeeLayer, find the software or web to But
 
 Nov17, the forum system, like v2ex.com, is complex. My neighbor coder Chen recommend me the v2ex, a coder love forum, but i need a invitation number. The reason is most bad posts happened recently are from new users, founder has to close the gmail sign up. Similar thing happens on Zhihu(知乎), chinese Quora, at early stage new users could join in Zhihu by old users' invitation. With growing, more and more posts are just for fun, not for the knowledge sharing.
 
 Lukily, PM Zhou share me an open source forum frame. She say most blockchain coders use Discourse to build BBS, it's a mature frame.
 
-Nov15, i cannot insist to learn more Japanese on Duolingo, the sentence is hard to recite. I have the ability to read 50 syllabary chart, that's enough to take few ads to Japanese market. Consider i know German, English and Chinese, the potential user population is close to 2 billion.
+Nov15, i cannot insist to learn more Japanese on Duolingo, the sentence is hard to recite. I have the ability to read 50 syllabary chart, that's enough to take few ads to Japanese market. Consider i know German, English and Chinese, the potential user population is close to 4 billion.
+
+Nov7, my dad highly suggest me to attach importance to Chinese market. As a 1.4 billion country, the minority is still a large amount, but he may ignore the habit. The pay usage habits in China is weak. I strongly think the user ratio about China and abroad may 3:7, but the Members who are willing to purchase is 7:3. Let's wait and see what will happen in 2025.
 
 Nov4, coder Qian test the URL Scheme, a link could open the App, but we cannot sure whether single instruction could open. To be continue...
 
