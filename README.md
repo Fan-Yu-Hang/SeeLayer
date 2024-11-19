@@ -1,7 +1,12 @@
 # SeeLayer
+
+Nov18, in my view, there are 3 ways to build our 
+
 Nov17, the forum system, like v2ex.com, is complex. My neighbor coder Chen recommend me the v2ex, a coder love forum, but i need a invitation number. The reason is most bad posts happened recently are from new users, founder has to close the gmail sign up. Similar thing happens on Zhihu(知乎), chinese Quora, at early stage new users could join in Zhihu by old users' invitation. With growing, more and more posts are just for fun, not for the knowledge sharing.
 
 Lukily, PM Zhou share me an open source forum frame. She say most blockchain coders use Discourse to build BBS, it's a mature frame.
+
+Nov15, i cannot insist to learn more Japanese on Duolingo, the sentence is hard to recite. I have the ability to read 50 syllabary chart, that's enough to take few ads to Japanese market. Consider i know German, English and Chinese, the potential user population is close to 2 billion.
 
 Nov4, coder Qian test the URL Scheme, a link could open the App, but we cannot sure whether single instruction could open. To be continue...
 
