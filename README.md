@@ -1,6 +1,6 @@
 # SeeLayer
 
-Nov19, the forum could show many functions. The bounty mission, for instance, is really necessary for an amateur, if your boss need you to finish a target with niche software, which you cannot find tutorials on youtube, set a 10$ bounty question, our system will invite those who may know. Before that, experts could add tags on themselves, not just software, but the industry they work. You can always find a better way, a suitable solution to solve your target. Save time, matters money.
+Nov19, the forum could show many functions. The bounty mission, for instance, is really necessary for an amateur, if your boss need you to finish a target with niche software, which you cannot find tutorials on YouTube, set a 10$ bounty question, our system will invite those who may know. Before that, experts could add tags on themselves, not just software, but the industry they work. You can always find a better way, a suitable solution to solve your target. Save time, matters money.
 
 Nov18, in my view, there are 3 ways to build our official web.
 
