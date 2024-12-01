@@ -1,6 +1,6 @@
 # SeeLayer
 
-Nov29, 
+Nov30, if necessary, we need to show more on Product Hunt.
 
 Nov28, [new scene]. I'm confused about apps on my mac, these names are too weird to know their function. Ima, handbrake, obsidian, what are they working for? Last year i make a Feishu sheet to write down the app and the web tool, including their specifics, but time flies fast and i forget to continue. The seelayer is an assistant to mark any interface, our computer is more complex than the house we live. I believe many potential users will love this way to remark our apps on computer, why we download them, how they use, what's their pros and cons.
 
