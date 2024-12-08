@@ -1,5 +1,5 @@
 # SeeLayer
-Dec6
+Dec5, here are Notion intro https://humble-baroness-c0c.notion.site/Welcome-to-SeeLayer-155b9261a28180c88d80fb3b8dce568d?pvs=4
 
 
 Nov30, if necessary, we need to take a show on Product Hunt.
