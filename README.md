@@ -1,5 +1,5 @@
 # SeeLayer
-
+Dec26, make a meal for my UIC schoolmate Henry Lee, show him how SeeLayer use. I'm not sure if Hongkong gov will use it, as a public servant he witness the advanced tech.
 
 Dec25, Merry Christmas~
 
