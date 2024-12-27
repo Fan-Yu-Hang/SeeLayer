@@ -1,4 +1,6 @@
 # SeeLayer
+Dec27, coder Liu give me a new theory, HK card + buymeacoffee, i can receive money from personal users' transfer, instead of US comany + Stripe. At least now this is the easiest way.
+
 Dec26, make a meal for my UIC schoolmate Henry Lee, show him how SeeLayer use. I'm not sure if Hongkong gov will use it, as a public servant he witness the advanced tech.
 
 Dec25, Merry Christmas~
