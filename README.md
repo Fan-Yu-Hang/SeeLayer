@@ -1,5 +1,5 @@
 # SeeLayer
-Dec28,
+Dec31,
 
 Dec27, coder Liu give me a new theory, HK card + buymeacoffee, i can receive money from personal users' transfer, instead of US comany + Stripe. At least now this is the easiest way.
 
