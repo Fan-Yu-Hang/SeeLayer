@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jan4,
+Jan6, I think the AI voice in Doubao is fun, why not add Donald Trump's voice in SeeLayer?
 
 2025Jan1, Happy New Year.
 
