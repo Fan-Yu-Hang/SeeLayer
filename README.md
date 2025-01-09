@@ -1,5 +1,5 @@
 # SeeLayer
-Jan7,
+Jan9, get my HK passport, plan to fly on next Monday. If i don't have HK bank card, receive money from abroad is impossible.
 
 Jan6, I think the AI voice in Doubao is fun, why not add Donald Trump's voice in SeeLayer?
 
