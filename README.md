@@ -1,6 +1,8 @@
 # SeeLayer
 Jan18,
 
+Jan17, welcome to RedNote
+
 Jan10, Coder Guo is so professional. After take a dinner with his 2 little brothers, we back to their home. He build the entire blueprint for users' growth from 1 thousand to 1 million. So many terms i've heard but don't know detail.
 
 Jan9, get my HK passport, plan to fly on next Monday. If i don't have HK bank card, receive money from abroad is impossible.
