@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jan22, we need to add GIF on SeeLayer. Take Mac as an example, we are easy to take a screenshot with ⇧+⌘+4，or take a screen video record with ⇧+⌘+5.
+Jan22, we need to add GIF on SeeLayer. Take Mac as an example, we are easy to take a screenshot with ⇧+⌘+4，or take a screen video record with ⇧+⌘+5. The gif, however, is limited by parameter settings
 
 Jan17, welcome to RedNote
 
