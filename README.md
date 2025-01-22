@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jan22
+Jan22, we need to add GIF.
 
 Jan17, welcome to RedNote
 
