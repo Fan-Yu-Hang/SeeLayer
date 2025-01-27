@@ -1,4 +1,6 @@
 # SeeLayer
+Jan28,
+
 Jan27, i find a video work flow with AI+PS, which can help us make remarkable steps show up ad.
 
 Jan22, we need to add GIF on SeeLayer. Take Mac as an example, we are easy to take a screenshot with ⇧+⌘+4，or take a screen video record with ⇧+⌘+5. The gif, however, is limited by parameter settings. It's so different to decide the size. After testing I realise that the size may over 30 times larger than the smallest one. If people want to share a tutorial, no need to ask them download Seelayer, but just share gif to show.
