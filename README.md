@@ -1,5 +1,6 @@
 # SeeLayer
-2025Feb4, successfully download ollama and deepseek-R1.
+
+2025Feb4, successfully download ollama and deepseek-R1. I'm not sure which visible UI plugin is better, now i use Page Assist.
 
 Jan29, Happy Chinese Snake New Year.
 
