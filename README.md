@@ -1,6 +1,6 @@
 # SeeLayer
 
-2025Feb9, i find an alternative web instruction, we used to show words step by step, but we can make mouse float on these point and read the hidden words. If our users want to give their customers an instruction, they can make a simillar UI with 3 elements. 1-3 the image, 2-3 point with number, 3-3 hidden words. What 
+2025Feb9, i find an alternative web instruction, we used to show words step by step, but we can make mouse float on these point and read the hidden words. If our users want to give their customers an instruction, they can make a simillar UI with 3 elements. 1-3 the image, 2-3 point with number, 3-3 hidden words. What seelayer can show, is official webpage can show, simultaneously.
 
 2025Feb4, successfully download ollama and deepseek-R1. I'm not sure which visible UI plugin is better, now i use Page Assist.
 
