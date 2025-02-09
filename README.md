@@ -1,6 +1,6 @@
 # SeeLayer
 
-2025Feb9, i find an alternative web instruction, we used to 
+2025Feb9, i find an alternative web instruction, we used to show words step by step, but we can make mouse float on these point and read the hidden words.
 
 2025Feb4, successfully download ollama and deepseek-R1. I'm not sure which visible UI plugin is better, now i use Page Assist.
 
