@@ -1,6 +1,6 @@
 # SeeLayer
 
-2025Feb8,
+2025Feb9, i find an alternative web instruction, we used to 
 
 2025Feb4, successfully download ollama and deepseek-R1. I'm not sure which visible UI plugin is better, now i use Page Assist.
 
