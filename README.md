@@ -1,4 +1,5 @@
 # SeeLayer
+Feb19, we may add ocr as an easy way. I notice a project named OcrHelper, which has a wonderful UI, you can get the text with moving the frame on target page.
 
 Feb18, SeeLayer solve a huge problem about how to introduce the new function. As a product manager, i should be senetive about why button change, why interaction change, why a function is canceled. But we don't have a light way to share our mind, traditional video or screenshot is heavy and inconvenient.
 
