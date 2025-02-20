@@ -1,4 +1,6 @@
 # SeeLayer
+Feb20, storytribe is a good tool. I take a 6 pages kartoon about blind date post, cost 20 min. An artist Mr. Wang try to repeat my thinking as several ad posts. He is my high school mate, go to Tsinghua University, art college. With a talent esthetics, he know how to produce better image.
+
 Feb19, we may add ocr as an easy way. I notice a project named OcrHelper, which has a wonderful UI, you can get the text with moving the frame on target page.
 
 Feb18, SeeLayer solve a huge problem about how to introduce the new function. As a product manager, i should be senetive about why button change, why interaction change, why a function is canceled. But we don't have a light way to share our mind, traditional video or screenshot is heavy and inconvenient.
