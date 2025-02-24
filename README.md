@@ -1,6 +1,6 @@
 # SeeLayer
 
-Feb23，Keyboard Maestro is an automatic click tool, it's kind for Mac users.
+Feb22，Keyboard Maestro is an automatic click tool, it's kind for Mac users.
 
 Feb21, apply the software copyright（软件著作权）,over 3 hrs. The fee takes only 40 USD, but time waste too much.
 
