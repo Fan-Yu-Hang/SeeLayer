@@ -1,5 +1,7 @@
 # SeeLayer
 
+Feb27, talk with Mrs. Yu about magnificent interface, over 2hrs.
+
 Feb22，Keyboard Maestro is an automatic click tool, it's kind for Mac users.
 
 Feb21, apply the software copyright（软件著作权）,over 3 hrs. The fee takes only 40 USD, but time waste too much.
