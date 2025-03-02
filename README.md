@@ -1,7 +1,7 @@
 # SeeLayer
-2025Mar1
+Mar3, hope we can finish all bugs in 2nd version.
 
-Feb28, finish all bugs in 2nd version.
+2025Mar2, 
 
 Feb27, talk with Mrs. Yu about magnificent interface, over 2hrs.
 
