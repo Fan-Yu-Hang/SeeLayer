@@ -1,7 +1,8 @@
 # SeeLayer
-Mar3, hope we can finish all bugs in 2nd version.
 
-2025Mar2, 
+Mar3, talk with a WeChat public account owner, Mrs.Ma, she is a test coder.
+
+2025Mar2, hope we can finish all bugs in 2nd version.
 
 Feb27, talk with Mrs. Yu about magnificent interface, over 2hrs.
 
