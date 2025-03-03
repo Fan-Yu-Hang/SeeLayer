@@ -1,6 +1,6 @@
 # SeeLayer
 
-Mar3, talk with a WeChat public account owner, Mrs.Ma, she is a test coder. I don't realise how many test works i have to finish until Mrs.Ma tell me details. Email sign up, for example,
+Mar3, talk with a WeChat public account owner, Mrs.Ma, she is a test coder. I don't realise how many test works i have to finish until Mrs.Ma tell me details. Email sign up, for example, has
 
 2025Mar2, hope we can finish all bugs in 2nd version.
 
