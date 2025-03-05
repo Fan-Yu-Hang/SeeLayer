@@ -1,5 +1,5 @@
 # SeeLayer
-Mar5, play tennis with Xiao Jiacheng. He is my schoolmate, same year from UIC, now works in Alibaba as a data analist. The place is called Yuedong, i'm shocked about those management details.
+Mar5, play tennis with Xiao Jiacheng. He is my schoolmate, same year from UIC, now works in Alibaba as a data analyst. The place is called Yuedong, i'm shocked about those management details.
 
 Mar3, talk with a WeChat public account owner, Mrs.Ma, she is a test coder. I don't realise how many test works i have to finish until Mrs.Ma tell me details. Email sign up, for example, has several test points. We may assume users will input correct link, but we need to inform their format is incorrect, and time count down for verify code is another example. After front end finish work this week, test work is continue simontaneously.
 
