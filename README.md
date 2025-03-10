@@ -1,4 +1,6 @@
 # SeeLayer
+Mar10, SeeLayer is officially online. Yeeeeeah~
+
 Mar8, go to Alibaba, D2 forum. 阿里D2技术大会（loom录制）https://loom.com/share/folder/069a4912a51b4ea4aa419fafdf472b1e
 
 Mar5, play tennis with Xiao Jiacheng. He is my schoolmate, same year from UIC, now works in Alibaba as a data analyst. The place is called Yuedong, i'm shocked about those management details. The moment i arrive there, i am trapped in an industrial elevator, which has no button inside to control up or down, if Mr.Xiao was not company, i have to call 110 an let police to help. Because the raining day, we choose a ground with shelter, but outside the shelter, the ground is wet, and make balls wet. We order 21-22 o'clock, dark night with dazzling lights, server is hard. And the light switch is manually close, as a hardware engineer, this is so easy to upgrade to a remote. When we leave the parking lot, we have to pay fee, 10yuan(1.5dollars), due to the landlord give nothing like a bonus to tennis playground owner, even themselves must pay. Finally, we complain about tennis balls are not rebound as usual, the owner is shocked as well, he say those balls must be replaced by customers.
