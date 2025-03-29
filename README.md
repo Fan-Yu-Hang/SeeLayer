@@ -1,5 +1,5 @@
 # SeeLayer
-Mar23, go to Shanghai. First i meet with coder Zhong, 
+Mar23, go to Shanghai. First i meet with coder Zhong, communicate with SeeLayer's official web of marking function. He is also busy with new startup, a camera app with AI which generate proper body gesture, to help eaiser take a portrait photography. After lunch with my Chongqing schoolmates, i meet Mr. Ge, who is the agent of docusign. The 
 
 Mar15, the 1st tutorial video【给知乎云股东的答谢视频 SeeLayer】 https://www.bilibili.com/video/BV1RyQrYyEpX/?share_source=copy_web&vd_source=12e87816e92fbe29f3f1746f2aa74261
 
