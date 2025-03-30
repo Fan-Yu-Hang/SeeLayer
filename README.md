@@ -1,5 +1,5 @@
 # SeeLayer
-Mar28, meet CEO of proginn Mr. Chen, the largest coder platform in China (over 1 million users). Over 2 hrs i learn lots of startup tricks, such as talk with advanced users.
+Mar28, meet CEO of proginn Mr. Chen, the largest coder platform in China (over 1 million users). Over 2 hrs i learn lots of startup tricks, such as talk with advanced users. And finding investment is a long-term job, must hire a CFO to focus on.
 
 Mar23, go to Shanghai. First i meet with coder Zhong, communicate with SeeLayer's official web of marking function. He is also busy with new startup, a camera app with AI which generate proper body gesture, to help eaiser take a portrait photography. After lunch with my Chongqing schoolmates, i meet Mr. Ge, who is the agent of docusign. Their early consultation process takes too much time, seelayer can help faster.
 
