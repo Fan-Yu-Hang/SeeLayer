@@ -1,5 +1,5 @@
 # SeeLayer
-2025Apr8,
+2025Apr12,
 
 Mar28, meet CEO of proginn Mr. Chen, the largest coder platform in China (over 1 million users). Over 2 hrs i learn lots of startup tricks, such as talk with advanced users. And finding investment is a long-term job, must hire a CFO to focus on.
 
