@@ -1,4 +1,5 @@
 # SeeLayer
+
 2025Apr14, moving to a new house is so tired, i lose 2.5kg weight.
 
 Mar28, meet CEO of proginn Mr. Chen, the largest coder platform in China (over 1 million users). Over 2 hrs i learn lots of startup tricks, such as talk with advanced users. And finding investment is a long-term job, must hire a CFO to focus on.
