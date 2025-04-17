@@ -1,5 +1,5 @@
 # SeeLayer
-Apr16, Strapi is
+Apr16, CMS is
 
 2025Apr14, moving to a new house is so tired, i lose 2.5kg weight.
 
@@ -167,7 +167,7 @@ Aug13, didn't expect OpenAI just apply 10 patents in 2023, but those could built
 
 Aug10, the sales model is important. My father suggest to get discount or coupon.
 
-Aug9, strapi is good to manage backend.
+Aug9, CMS is good to manage backend.
 
 Aug8, first time to Ning Bo, 2nd largest city in Zhejiang province. The home appliance suppliers are so professional.
 
