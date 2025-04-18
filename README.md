@@ -1,5 +1,5 @@
 # SeeLayer
-Apr16, CMS is
+Apr16, with the help of KAPA.ai, my CMS is easy to learn.
 
 2025Apr14, moving to a new house is so tired, i lose 2.5kg weight.
 
