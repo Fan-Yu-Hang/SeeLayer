@@ -1,5 +1,5 @@
 # SeeLayer
-Apr20,
+Apr22, my dear neighbor Coder CHEN ZheRong build the MySQL system, with DBeaver to manage database.
 
 Apr18, with the help of KAPA.ai, my Strapi is easy to learn. But we cannot link the users' info.
 
