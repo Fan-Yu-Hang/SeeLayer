@@ -1,5 +1,7 @@
 # SeeLayer
-2025Apr29, DrawDB is easy to read, if i use MySQL WorkBench i need to think their relationships, but with the help of visulise tools like DrawDB, save my brain~
+Apr30 
+
+Apr29, DrawDB is easy to read, if i use MySQL WorkBench i need to think their relationships, but with the help of visulise tools like DrawDB, save my brain~
 
 Apr26, Sleep at 23 o'clock, wake up at 4 to watch Barcelona vs Real Madrid~
 
