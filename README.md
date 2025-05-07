@@ -1,5 +1,5 @@
 # SeeLayer
-May6, supabase is an AI database? i accidentally read the article about why Supabase
+May6, supabase is an AI database? i accidentally read the article about why Supabase grows fast
 
 May4, every night i have a creation, but this night i have two. 1st is about
 
