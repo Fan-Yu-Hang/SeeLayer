@@ -1,7 +1,7 @@
 # SeeLayer
-May6, supabase is an AI database? i accidentally read the article about why Supabase grows fast
+May6, supabase is an AI database? i accidentally read the article about why Supabase grows fast.
 
-May4, every night i have a creation, but this night i have two. 1st is about
+May4, every night i have a creation, but this night i have two. 1st is about, and 2nd. But no time to execute.
 
 2025May1, talk about new product with another start-up CEO Mr. JING Yilin. Now he works on building a science-study version MANUS.
 
