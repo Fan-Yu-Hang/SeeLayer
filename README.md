@@ -1,6 +1,6 @@
 # SeeLayer
 
-May13, write an article about why social media platform rules are so important《出海产品，需要面向全球规则广而告之》https://zhuanlan.zhihu.com/p/1905086355152811206
+May13, write an article about why globle social media platform rules are so important《出海产品，需要面向全球规则广而告之》https://zhuanlan.zhihu.com/p/1905086355152811206
 
 May11, coder Chen come to my house and write database code more than 2hrs. We totally abandon the Strapi.
 
