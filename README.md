@@ -1,6 +1,6 @@
 # SeeLayer
 
-2025May16, discuss a tremendous VI marketing plan with Designer Yu. Video games, social media images, web UI etc.
+May16, discuss a tremendous VI marketing plan with Designer Yu. Video games, social media images, web UI etc.
 
 May14, coder Guo tell me CDN can prevent users cannot reach official web from UK.
 
