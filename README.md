@@ -1,5 +1,5 @@
 # SeeLayer
-May19,
+May19
 
 May16, discuss a tremendous VI marketing plan with Designer Yu. Video games, social media images, web UI etc.
 
