@@ -1,4 +1,7 @@
 # SeeLayer
+
+May26, preparing business pland, ready to meet investor.
+
 May23, talk to jinqiu capital(锦秋基金), record with loom to show how SeeLayer work, to label their official web.
 
 May20, 闪卡(Flash Card) is my dream tool, iPhone iPad and Mac, it could remain text, image, voice. The best part is "cover" function, we can cover the image to help memory hard part, which allows me to screenshot knowledge from Lark(飞书), save much time. The lifetime price is 20$, too cheap.
