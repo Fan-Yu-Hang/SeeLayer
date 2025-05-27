@@ -1,6 +1,6 @@
 # SeeLayer
 
-May26, preparing business pland, ready to meet investor.
+May26, preparing business pland, ready to meet investor 奇绩创坛.
 
 May23, talk to jinqiu capital(锦秋基金), record with loom to show how SeeLayer work, to label their official web.
 
