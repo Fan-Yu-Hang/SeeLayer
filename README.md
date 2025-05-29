@@ -1,5 +1,7 @@
 # SeeLayer
 
+May29, visit an exhibition with my UIC college roomate, Yves，black myth WuKong，the best Chinese 3A game.
+
 May26, preparing business pland, ready to meet investor 奇绩创坛, they are so generous.
 
 May23, talk to jinqiu capital(锦秋基金), record with loom to show how SeeLayer work, to label their official web.
