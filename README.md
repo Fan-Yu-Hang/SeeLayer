@@ -1,5 +1,5 @@
 # SeeLayer
-Jun4
+Jun4, the Mobile - adaptable official website templates 
 
 Jun2, the AI report from Mary Meeker shock me. Good news for us, desktop AI App time costing is growing and they may need SeeLayer to learn new App.
 https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf
