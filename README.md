@@ -1,7 +1,7 @@
 # SeeLayer
 Jun6, the pricing strategy "real-time" is so creative. Me personally order several Apps' Membership, but little time can use it, which makes me axious when buy a new App's Membership. In my word, the "real-time" means the day i use it, but the rest days should not counting money.
 
-Jun4, we decide to use https://html5up.net/future-imperfect, as our official website template, the mobile adaptable set save much time.
+Jun4, we decide to use https://html5up.net/helios, as our official website template, the mobile adaptable set save much time.
 
 2025Jun2, the AI report from Mary Meeker shock me. Good news for us, desktop AI App time costing is growing and they may need SeeLayer to learn new App.
 https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf
