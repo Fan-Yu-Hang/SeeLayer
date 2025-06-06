@@ -1,7 +1,9 @@
 # SeeLayer
+Jun6, the pricing strategy "real-time" is so creative. 
+
 Jun4, we decide to use https://html5up.net/future-imperfect, as our official website template, the mobile adaptable set save much time.
 
-Jun2, the AI report from Mary Meeker shock me. Good news for us, desktop AI App time costing is growing and they may need SeeLayer to learn new App.
+2025Jun2, the AI report from Mary Meeker shock me. Good news for us, desktop AI App time costing is growing and they may need SeeLayer to learn new App.
 https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf
 
 May29, visit an exhibition with my UIC college roomate, Yves，black myth WuKong，the best Chinese 3A game.
