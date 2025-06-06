@@ -1,5 +1,5 @@
 # SeeLayer
-Jun6, the pricing strategy "real-time" is so creative. Me personally order several Apps' Membership, but little time can use it, which makes me axious when buy a new App's Membership. In my word, the "real-time" means the day i use it, but the rest days should not counting money. That can take more users to try SeeLayer.
+Jun6, the pricing strategy "real-time" is so creative. Me personally order several Apps' Membership, but little time can use it, which makes me axious when buy a new App's Membership. In my word, the "real-time" means the day i use it, but the rest days should not counting money. This brand-new pricing strategy can make more users to try SeeLayer, and no worry about .
 
 Jun4, we decide to use https://html5up.net/helios, as our official website template, the mobile adaptable set save much time.
 
