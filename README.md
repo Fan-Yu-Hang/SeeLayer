@@ -1,5 +1,6 @@
 # SeeLayer
-Jun8,
+Jun8, find a problem, how could 5 min GIF put on Zhihu? I've try but Zhihu is size limited.《猫和老鼠》为何能风靡全球？ - 樊宇航ProtonFly的回答 - 知乎
+https://www.zhihu.com/question/564554080/answer/1915848095356425889
 
 Jun6, the pricing strategy "real-time" is so creative. Me personally order several Apps' Membership, but little time can use it, which makes me axious when buy a new App's Membership. In my word, the "real-time" means the day i use it, but the rest days should not counting money. This brand-new pricing strategy allows more users to try SeeLayer, and no worry about time wasting.
 
