@@ -1,4 +1,6 @@
 # SeeLayer
+Jun18, the data is transferred to MySQL, and our app works again!
+
 Jun12. deliver info to miracleplus foundation, wish they will invest us.
 
 Jun8, find a problem, how could 5 min GIF put on Zhihu? I've try but Zhihu is size limited.《猫和老鼠》为何能风靡全球？ - 樊宇航ProtonFly的回答 - 知乎
