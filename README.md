@@ -1,4 +1,6 @@
 # SeeLayer
+Jun19, carry 2 boxes red bayberry to visit my coders, CHEN Zherong and GUO Xinyu.
+
 Jun18, the data is transferred to MySQL, and our app works again!
 
 Jun12. deliver info to miracleplus foundation, wish they will invest us.
