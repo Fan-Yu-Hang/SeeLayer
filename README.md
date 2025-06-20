@@ -1,5 +1,5 @@
 # SeeLayer
-Jun19, carry 2 boxes red bayberry to visit my coders, CHEN Zherong and GUO Xinyu. Coder CHEN finish the MySQL database without single paymayment, i'm so moved. Coder GUO continue to build backend architecture, he rocommend me to find an opensource backend management system, and help him to collect the user data. Talking to GUO more than 4 hrs, learn a lot about his data business. His backend operation and maintenance ablility is Alibaba's P10 level but annual revenue less than 1 million Yuan (16000$), i really wish he could do better. No matter help more start-ups or serve as outsourcing to tech giants.
+Jun19, carry 2 boxes red bayberry to visit my coders, CHEN Zherong and GUO Xinyu. Coder CHEN finish the MySQL database without single paymayment, i'm so moved. Coder GUO continue to build backend architecture, he rocommend me to find an opensource backend management system, and help him to collect the user data. Talking to GUO more than 4 hrs, learn a lot about his data business. His backend operation and maintenance ablility is Alibaba's P10 level but annual revenue less than 1 million Yuan (160k $), i really wish he could do better. No matter help more start-ups or serve as outsourcing to tech giants.
 
 Jun18, the data is transferred to MySQL, and our app works again!
 
