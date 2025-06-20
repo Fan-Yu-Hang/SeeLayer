@@ -1,5 +1,5 @@
 # SeeLayer
-Jun19, carry 2 boxes red bayberry to visit my coders, CHEN Zherong and GUO Xinyu.
+Jun19, carry 2 boxes red bayberry to visit my coders, CHEN Zherong and GUO Xinyu. Coder CHEN finish the MySQL database without single paymayment, i'm so moved. Coder GUO continue to build backend architecture, he rocommend me to find an opensource backend management system, and help him to collect the user data.
 
 Jun18, the data is transferred to MySQL, and our app works again!
 
