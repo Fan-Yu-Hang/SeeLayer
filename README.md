@@ -1,5 +1,7 @@
 # SeeLayer
-Jun22, i make first ToB tutorail, DBeaver
+Jun22, the new logo is outsource to my classmate WANG Feiyun(Chongqing No.8 High School), who is graduate from Tsinghua University.
+
+Jun21, i make first ToB tutorail, DBeaver
 
 Jun19, carry 2 boxes red bayberry to visit my coders, CHEN Zherong and GUO Xinyu. Coder CHEN finish the MySQL database without single paymayment, i'm so moved. Coder GUO continue to build backend architecture, he rocommend me to find an opensource backend management system, and help him to collect the user data. Talking to GUO more than 4 hrs, learn a lot about his data business. His backend operation and maintenance ablility is Alibaba's P10 level but annual revenue less than 1 million Yuan (160k $), i really wish he could do better. No matter help more start-ups or serve as outsourcing to tech giants. When i ask him whether "Daily Billing" is technical capable, he say yes, cloud company Vultr has likely service "Hour Billing". And that makes me happy, SeeLayer's membership will be more attractive.
 
