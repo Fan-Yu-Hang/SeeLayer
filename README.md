@@ -1,5 +1,5 @@
 # SeeLayer
-Jun28
+Jun28, and users will not satisfied about breif intro, they 100% need at least 2 products comparation.
 
 Jun26, always get questions from Xiaohonghu(Red Note), is there any App which people need but no one has made? I scincerely think SeeLayer hold this data flow. Consider majority use mobile, not computer, the mini program or App is relevant to quick respond.
 
