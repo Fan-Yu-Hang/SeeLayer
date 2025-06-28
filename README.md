@@ -1,4 +1,6 @@
 # SeeLayer
+Jun28
+
 Jun26, always get questions from Xiaohonghu(Red Note), is there any App which people need but no one has made? I scincerely think SeeLayer hold this data flow. Consider majority use mobile, not computer, the mini program or App is relevant to quick respond.
 
 Jun22, the new logo is outsource to my classmate WANG Feiyun(Chongqing No.8 High School), who is graduate from Tsinghua University.
