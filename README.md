@@ -1,5 +1,5 @@
 # SeeLayer
-Jun30
+Jun30,
 
 Jun28, and users will not satisfied about breif intro, they 100% need at least 2 products comparation. But we cannot copmare all functions, like the PMF(Product Market Fit), the key value functions is priority. I have few suggestions, sheet lists, interface match, or audio + arrow guidance.
 
