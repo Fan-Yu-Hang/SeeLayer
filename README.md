@@ -1,5 +1,5 @@
 # SeeLayer
-July7, meet with this investor
+July7, meet with this investor, my lawyer's college schoolmate, unfortunately her 
 
 2025July2, talk to a poptential investor.
 
