@@ -1,4 +1,6 @@
 # SeeLayer
+July9
+
 July7, meet with this investor, my lawyer's college schoolmate, unfortunately she belongs to Yuhang State-owned Capital Investment Group. The YuHang District is a part of HangZhou City, ZheJiang Province, which is relative conservative style. But Mrs. Zheng promise to give my BP to sub-fund, wich i'm good luck.
 
 2025July2, talk to a poptential investor.
