@@ -1,4 +1,6 @@
 # SeeLayer
+July9, i text with coder WANG and audio talk 1 hour with front-end coder MAO, Mr. MAO is also a subordinate from coder YIN. Sadly he has little time, but also care about my project. Before i call them on WeChat, i seperately take a Loom video to give a brief intro about SeeLayer, and let them know their work details.
+
 July8, second long talk with coder YIN JianFei, who is a talented full-stack. He is interested with SeeLayer and complain that no time for part-time job. And he recommend a new back-end coder WANG TengFei, a former colleage in HangZhou.
 
 July7, meet with this investor, my lawyer's college schoolmate, unfortunately she belongs to Yuhang State-owned Capital Investment Group. The YuHang District is a part of HangZhou City, ZheJiang Province, which is relative conservative style. But Mrs. Zheng promise to give my BP to sub-fund, wich i'm good luck.
