@@ -1,5 +1,5 @@
 # SeeLayer
-July9
+July8, second long talk with coder YIN JianFei, who is a talented full-stack. He is interested with SeeLayer and complain that no time for part-time job. And he recommend a new back-end coder WANG TengFei, a former colleage in HangZhou.
 
 July7, meet with this investor, my lawyer's college schoolmate, unfortunately she belongs to Yuhang State-owned Capital Investment Group. The YuHang District is a part of HangZhou City, ZheJiang Province, which is relative conservative style. But Mrs. Zheng promise to give my BP to sub-fund, wich i'm good luck.
 
