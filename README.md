@@ -1,4 +1,7 @@
 # SeeLayer
+July11, try to add a new function on official web with myself.
+July, 
+
 July9, i text with coder WANG and audio talk 1 hour with front-end coder MAO, Mr. MAO is also a subordinate from coder YIN. Sadly he has little time, but also care about my project. Before i call them on WeChat, i seperately take a Loom video to give a brief intro about SeeLayer, and let them know their work details.
 
 July8, second long talk with coder YIN JianFei, who is a talented full-stack. He is interested with SeeLayer and complain that no time for part-time job. And he recommend a new back-end coder WANG TengFei, a former colleage in HangZhou.
