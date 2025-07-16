@@ -2,7 +2,7 @@
 
 July14, audio meeting with Dr. He over 40min
 
-July12,
+July12, 3 things, meet my lawyer PAN, meet backend coder WANG, join the Cursor Meetup Hangzhou in Dreamtown.
 
 July11, try to add a new function on official web with myself. The image upload and float words cover.
 
