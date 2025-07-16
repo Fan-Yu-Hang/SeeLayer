@@ -2,6 +2,8 @@
 
 July14, audio meeting with Dr. He over 40min
 
+July12,
+
 July11, try to add a new function on official web with myself. The image upload and float words cover.
 
 July10, audio talk 20 min coder WANG TengFei, about aggregate login, Gmail is priority.
