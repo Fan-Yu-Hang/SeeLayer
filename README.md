@@ -1,6 +1,6 @@
 # SeeLayer
 
-July18, learn ChanDao（禅道）to manage code progress.
+July18, coder Guo let me learn ChanDao（禅道）to manage code progress.
 
 July14, audio meeting with Dr. He over 40min.
 
