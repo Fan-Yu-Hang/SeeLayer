@@ -1,4 +1,5 @@
 # SeeLayer
+July20, backend team take a meal in Westlake Culture Square.
 
 July18, coder Guo let me learn ChanDao（禅道）to manage code progress.
 
