@@ -1,5 +1,6 @@
 # SeeLayer
-July23,
+
+July23, submit many Mac client bugs to frontend.
 
 July20, backend team take a meal in Westlake Culture Square, i love that shrimp ball.
 
