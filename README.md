@@ -1,7 +1,8 @@
 # SeeLayer
 
 July27, we decide to put xiaohongshu(RedNote) image+link to ad zone, any user could pay to post their personal ad.
-weekly report 透见进度周报 https://www.loom.com/share/e0074356d40d439388bf36d1360d9e46?sid=45f19e14-6b31-450d-80ab-a0e34625f92a
+
+And there is a weekly report 透见进度周报 https://www.loom.com/share/e0074356d40d439388bf36d1360d9e46?sid=45f19e14-6b31-450d-80ab-a0e34625f92a
 
 July23, submit many Mac client bugs to frontend.
 
