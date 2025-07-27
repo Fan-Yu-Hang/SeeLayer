@@ -1,6 +1,6 @@
 # SeeLayer
 
-July25,
+July27,
 
 July23, submit many Mac client bugs to frontend.
 
