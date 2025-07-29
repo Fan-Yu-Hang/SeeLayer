@@ -1,4 +1,5 @@
 # SeeLayer
+2025July28
 
 July27, we decide to put xiaohongshu(RedNote) image+link to ad zone, any user could pay to post their personal ad.
 
