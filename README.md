@@ -1,4 +1,6 @@
 # SeeLayer
+2025July31, prepare to join the Cursur Meetup in ShangHai, as a volunteer, i make a faster procedure for Q&A.
+
 July28, backend take 4 tasks.
 
 July27, we decide to put xiaohongshu(RedNote) image+link to ad zone, any user could pay to post their personal ad.
