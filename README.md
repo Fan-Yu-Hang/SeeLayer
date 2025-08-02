@@ -1,5 +1,7 @@
 # SeeLayer
-2025July31, prepare to join the Cursur Meetup in ShangHai, as a volunteer, i make a faster procedure for Q&A.
+2025Aug2 AIMeetup
+
+July31, prepare to join the Cursur Meetup in ShangHai, as a volunteer, i make a faster procedure for Q&A.
 
 July28, backend take 4 tasks.
 
