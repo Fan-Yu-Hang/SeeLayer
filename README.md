@@ -1,5 +1,5 @@
 # SeeLayer
-2025Aug2, Hangzhou Stutent AI Meetup, i take a suggestion video to 4 girls, China's Manufacturing always come with young generation start-up【给四位工具外贸小姑娘的建议 - 樊宇航 ProtonFly https://www.xiaohongshu.com/discovery/item/688f4617000000002302aad9?source=webshare&xhsshare=pc_web&xsec_token=YB0RNwUjdKROBpngAJtz9MW_yayLcVGdBO2OlLWScl-vI=&xsec_source=pc_share
+2025Aug2, Hangzhou Stutent AI Meetup, i record a suggestion video to 4 girls, China's Manufacturing always come with young generation start-up【给四位工具外贸小姑娘的建议 - 樊宇航 ProtonFly https://www.xiaohongshu.com/discovery/item/688f4617000000002302aad9?source=webshare&xhsshare=pc_web&xsec_token=YB0RNwUjdKROBpngAJtz9MW_yayLcVGdBO2OlLWScl-vI=&xsec_source=pc_share
 
 July31, prepare to join the Cursur Meetup in ShangHai, as a volunteer, i make a faster procedure for Q&A.
 
