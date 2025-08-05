@@ -1,5 +1,5 @@
 # SeeLayer
-Aug6,
+Aug6
 
 Aug3, 3rd version logo is setteled.
 
