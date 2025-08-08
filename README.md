@@ -1,5 +1,5 @@
 # SeeLayer
-Aug6
+Aug8, this platform watcha.cn is ready to be a new Product Hunt.
 
 Aug3, 3rd version logo is setteled.
 
