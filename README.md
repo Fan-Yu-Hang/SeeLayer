@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug11
+Aug11, 《别让新手引导成为“劝退指南”，该怎么设计？》https://mp.weixin.qq.com/s/3KID2jkdrFoIhA55HfMVJQ
 
 Aug8, this platform watcha.cn prepares to be a new Product Hunt.
 
