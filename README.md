@@ -1,5 +1,5 @@
 # SeeLayer
-Aug16，Cursor shanghai Meetup is so cool, the volunteer team
+Aug16，Cursor shanghai Meetup is so cool, the volunteer team include Project Manager, Designer, Coder, even Investor, we laugh give 10 more hours, we can group a new startup.
 
 Aug11, 《别让新手引导成为“劝退指南”，该怎么设计？》https://mp.weixin.qq.com/s/3KID2jkdrFoIhA55HfMVJQ
 
