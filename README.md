@@ -1,4 +1,6 @@
 # SeeLayer
+Aug19, Luo YongHao interview Li Xiang(founder of EV Lixiang, https://www.bilibili.com/video/BV1FwY4zkEef/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=0cd6298de81487a0ae2cb8b149ddfb34
+
 Aug16，Cursor shanghai Meetup is so cool, the volunteer team include Project Manager, Designer, Coder, even Investor, we laugh give 10 more hours, we can group a new startup.
 
 Aug11, 《别让新手引导成为“劝退指南”，该怎么设计？》https://mp.weixin.qq.com/s/3KID2jkdrFoIhA55HfMVJQ
