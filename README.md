@@ -1,5 +1,5 @@
 # SeeLayer
-Aug20, take 6 video related to Cursor Meetup, 4 Chinese, 2 English.
+Aug20, take 6 video related to Cursor Meetup, 4 Chinese, 2 English. 6-6 How to be an AI PM, soccer game Highlights. https://svngnhakx2.feishu.cn/docx/KT0DdQhm8ooa7Cx49P6cWKk0n8b
 
 Aug19, Luo YongHao interview Li Xiang(founder of EV Liauto, https://www.bilibili.com/video/BV1FwY4zkEef/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=0cd6298de81487a0ae2cb8b149ddfb34
 
