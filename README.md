@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug25
+Aug25,
 
 Aug20, take 6 video related to Cursor Meetup, 4 Chinese, 2 English. 6-6 How to be an AI PM, soccer game Highlights. https://svngnhakx2.feishu.cn/docx/KT0DdQhm8ooa7Cx49P6cWKk0n8b
 
