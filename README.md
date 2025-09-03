@@ -1,6 +1,6 @@
 # SeeLayer
 
-Sep4, today i'm gonna 
+Sep4, today i'm gonna reschedule the HR system.
 
 Aug29, Chinese Valentine's Day
 
