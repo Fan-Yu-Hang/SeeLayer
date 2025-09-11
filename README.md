@@ -1,6 +1,6 @@
 # SeeLayer
 
-Sep9
+Sep13
 
 Sep4, today i'm gonna reschedule the HR system. Not hire people, but find co-founders.
 
