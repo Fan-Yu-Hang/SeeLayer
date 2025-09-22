@@ -1,6 +1,6 @@
 # SeeLayer
 
-Sep21,
+Sep22, official web SSL certificate is too expensive.
 
 Sep4, today i'm gonna reschedule the HR system. Not hire people, but find co-founders.
 
