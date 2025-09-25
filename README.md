@@ -1,5 +1,7 @@
 # SeeLayer
 
+Sep25, visit meetup with Mr.Lin, and meet a payment suppliers in EFC.
+
 Sep22, official web SSL certificate is too expensive.
 
 Sep4, today i'm gonna reschedule the HR system. Not hire people, but find co-founders.
