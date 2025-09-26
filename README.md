@@ -1,5 +1,7 @@
 # SeeLayer
 
+Sep26, Dr. He finish the 1st version of gamifacation doc.
+
 Sep25, visit meetup with Mr.Lin, and meet a payment suppliers in EFC.
 
 Sep22, official web SSL certificate is too expensive.
