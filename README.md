@@ -1,5 +1,7 @@
 # SeeLayer
 
+2025Oct3
+
 Sep29, Cuvia.ai, Coder Jing's new AI Canvas product, is a card-pages showup whiteboard. I may use it soon, they get Qiji's（奇绩创坛）investment 300k USD. Set the API and we can access the link without open a new webpage.
 
 Sep26, Dr. He finish the 1st version of gamifacation doc.
