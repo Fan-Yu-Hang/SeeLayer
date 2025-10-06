@@ -1,6 +1,6 @@
 # SeeLayer
 
-2025Oct7, national holiday is end
+2025Oct7, national holiday is end.
 
 Sep29, Cuvia.ai, Coder Jing's new AI Canvas product, is a card-pages showup whiteboard. I may use it soon, they get Qiji's（奇绩创坛）investment 300k USD. Set the API and we can access the link without open a new webpage.
 
