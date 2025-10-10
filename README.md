@@ -1,5 +1,7 @@
 # SeeLayer
 
+Oct11, the ads of Cuvia must be a series of scenes.
+
 2025Oct7, national holiday is end. I learn 2 prediction tools, kalshi and polymarket. Both are suitable for SeeLayer and Cuvia.
 
 Sep29, Cuvia.ai, Coder Jing's new AI Canvas product, is a card-pages showup whiteboard. I may use it soon, they get Qiji's（奇绩创坛）investment 300k USD. Set the API and we can access the link without open a new webpage.
@@ -10,7 +12,7 @@ Sep25, visit meetup with Mr.Lin, and meet a payment suppliers in EFC.
 
 Sep22, official web SSL certificate is too expensive.
 
-Sep4, today i'm gonna reschedule the HR system. Not hire people, but find co-founders.
+2025Sep4, today i'm gonna reschedule the HR system. Not hire people, but find co-founders.
 
 Aug29, Chinese Valentine's Day
 
