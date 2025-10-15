@@ -1,5 +1,5 @@
 # SeeLayer
-Oct15, i find the storytribe has AI function.
+Oct15, i find the storytribe has AI function. No need
 
 Oct11, the ads of Cuvia must be a series of scenes.
 
