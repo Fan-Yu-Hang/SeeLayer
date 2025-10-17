@@ -1,4 +1,6 @@
 # SeeLayer
+Oct17, an AI HR startup talk to me, they want SeeLayer to help the instruction. Unfortunately my app is not fluent, i promise the official web will online in November, they will use it.
+
 Oct15, i find the storytribe has AI function. No need to use another render tool like SD.
 
 Oct11, the ads of Cuvia must be a series of scenes.
