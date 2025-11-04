@@ -1,4 +1,8 @@
 # SeeLayer
+
+2025Nov4, back from Chong Qing.
+
+
 Oct17, an AI HR startup talk to me, they want SeeLayer to help the instruction. Unfortunately my app is not fluent, i promise the official web will online in November, they can use Notion in these days.
 
 Oct15, i find the storytribe has AI function. No need to use another render tool like SD.
