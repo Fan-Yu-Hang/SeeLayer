@@ -1,5 +1,7 @@
 # SeeLayer
 
+Nov9,
+
 Nov7, third time meet with coder Jing, CEO of Cuvia, we eat duck soup as dinner. He is so energetic, and tell me the niche market of AI NAS, which will be ubiquitous in every families. I am suprised about he talk to CEO of fellou.ai, he is happy to fly to Silicon Valley and being a Product Manager in fellou. Coder Jing shows Cuvia's Clerk+Convex backend, i learn Clerk has website backstage, no need to build one.
 
 Nov5, Trae is a good tool, no matter how i describe the prompts, it will give me a better way to describe.
