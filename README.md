@@ -6,7 +6,7 @@ Nov7, third time meet with coder Jing, CEO of Cuvia, we eat duck soup as dinner.
 
 Nov5, Trae is a good tool, no matter how i describe the prompts, it will give me a better way to describe.
 
-2025Nov4, back from Chong Qing.
+2025Nov4, back from Chong Qing 重庆，my hometown.
 
 
 Oct17, an AI HR startup talk to me, they want SeeLayer to help the instruction. Unfortunately my app is not fluent, i promise the official web will online in November, they can use Notion in these days.
