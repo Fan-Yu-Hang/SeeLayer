@@ -1,6 +1,6 @@
 # SeeLayer
 
-Nov9,
+Nov9, Clerk has multi backstage services, i read its doc cover to cover.
 
 Nov7, third time meet with coder Jing, CEO of Cuvia, we eat duck soup as dinner. He is so energetic, and tell me the niche market of AI NAS, which will be ubiquitous in every families. I am suprised about he talk to CEO of fellou.ai, he is happy to fly to Silicon Valley and being a Product Manager in fellou. Coder Jing shows Cuvia's Clerk+Convex backend, i learn Clerk has website backstage, no need to build one.
 
