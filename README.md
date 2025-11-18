@@ -1,5 +1,5 @@
 # SeeLayer
-Nov16, Trae Pro save me this day. There is a bug which makes image
+Nov16, Trae Pro save me this day. There is a bug which makes image show up from right-bottom corner, i change the "center center" to "top left"
 
 Nov9, Clerk has multi backstage services, i read its doc cover to cover.
 
