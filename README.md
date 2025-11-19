@@ -1,6 +1,6 @@
 # SeeLayer
 
-2025Nov19
+2025Nov19, try to use Aliyun's TTS, not easy.
 
 Nov16, Trae Pro save me this day. There is a bug which makes image show up from right-bottom corner, i change the "center center" to "top left", finally fix it manually.
 
