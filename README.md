@@ -1,6 +1,6 @@
 # SeeLayer
 
-2025Nov21, 
+2025Nov22, prepare 3 videos. 1-3 ProtonFly's working specification, 2-3 SeeLayer web's brief intro, 3-3 gamification details. 
 
 2025Nov19, try to use Aliyun's TTS, not easy.
 
