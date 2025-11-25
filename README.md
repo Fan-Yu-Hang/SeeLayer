@@ -1,5 +1,7 @@
 # SeeLayer
-2025Nov24 The sign of industry progress is the emergence of instant noodles. (AI coding’s next era is all-in-one workflow)
+
+
+2025Nov24 The sign of industry progress is the emergence of instant noodles. (AI coding’s next era is all-in-one workflow) https://x.com/SeeLayer/status/1992983588778946813?s=20
 
 2025Nov22, prepare 3 videos. 1-3 ProtonFly's working specification, 2-3 SeeLayer web's brief intro, 3-3 gamification details. 
 
