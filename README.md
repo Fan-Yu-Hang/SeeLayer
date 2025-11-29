@@ -1,11 +1,11 @@
 # SeeLayer
-2025Nov26
+2025Nov
 
-2025Nov24 The sign of industry progress is the emergence of instant noodles. (AI coding’s next era is all-in-one workflow) https://x.com/SeeLayer/status/1992983588778946813?s=20
+Nov24 The sign of industry progress is the emergence of instant noodles. (AI coding’s next era is all-in-one workflow) https://x.com/SeeLayer/status/1992983588778946813?s=20
 
-2025Nov22, prepare 3 videos. 1-3 ProtonFly's working specification, 2-3 SeeLayer web's brief intro, 3-3 gamification details. 
+Nov22, prepare 3 videos. 1-3 ProtonFly's working specification, 2-3 SeeLayer web's brief intro, 3-3 gamification details. 
 
-2025Nov19, try to use Aliyun's TTS, not easy.
+Nov19, try to use Aliyun's TTS, not easy.
 
 Nov16, Trae Pro save me this day. There is a bug which makes image show up from right-bottom corner, i change the "center center" to "top left", finally fix it manually.
 
