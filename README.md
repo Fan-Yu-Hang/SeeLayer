@@ -1,5 +1,5 @@
 # SeeLayer
-Nov30, frontend coder Qian write a funny bug. In my opinion, if one circle+number is deleted, the larger rest will stay where they are and number will be minus 1. But in his code, the larger rest move to previous, i suggest we record this bug, once we need it in later version.
+Nov30, frontend coder Qian write a funny bug. In my opinion, if one circle+number is deleted, the larger rest will stay where they are and number will minus 1. But in his code, the larger rest move to previous, i suggest we record this bug, once we need it in later version.
 
 Nov24 The sign of industry progress is the emergence of instant noodles. (AI coding’s next era is all-in-one workflow) https://x.com/SeeLayer/status/1992983588778946813?s=20
 
