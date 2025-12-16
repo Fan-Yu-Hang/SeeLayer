@@ -1,5 +1,5 @@
 # SeeLayer
-Dec16,
+Dec16
 
 Dec7, many resumes send to me. Most are operation positions.
 
