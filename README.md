@@ -1,5 +1,5 @@
 # SeeLayer
-Dec18, read an article about superhuman
+Dec18, read an article about superhuman, their speed to test new functions is advanced, and . https://mp.weixin.qq.com/s/HXrO-lVyKQ19hk6UF6XLcw
 
 Dec7, many resumes send to me. Most are operation positions.
 
