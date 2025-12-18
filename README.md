@@ -1,5 +1,5 @@
 # SeeLayer
-Dec18, read an article
+Dec18, read an article about superhuman
 
 Dec7, many resumes send to me. Most are operation positions.
 
