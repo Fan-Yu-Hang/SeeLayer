@@ -1,5 +1,5 @@
 # SeeLayer
- Dec21, I used to make a prediction "Use SeeLayer to Build SeeLayer", today's supabase tutorial video is an example. Supabase Full Course 2025 from PedroTech, the video is uploaded on Apr 15,2025, just 8 months later, the official web is different from what he show. So i have to type RLS template, and find the API from Setting page. Later I will make several SeeLayer pages to re-show his work, and with his original audio.
+ Dec21, I used to make a prediction "Use SeeLayer to Build SeeLayer", today's supabase tutorial video is an example. Supabase Full Course 2025 from PedroTech, the video is uploaded on Apr 15,2025, just 8 months later, the official web is different from what his video present. So i have to type RLS template, and find the API from Setting page. Later I will make several SeeLayer pages to re-show his work, and with his original audio.
 
 Dec18, read an article about superhuman, their speed to test new functions is advanced, and the operation teams collect users' reaction is also the pioneer of PMF. 《把 AI 邮件工具做到 3500 万美元 ARR，Superhuman：找到 PMF 其实有明确的方法论》 https://mp.weixin.qq.com/s/HXrO-lVyKQ19hk6UF6XLcw
 
