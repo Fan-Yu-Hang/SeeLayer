@@ -1,5 +1,5 @@
 # SeeLayer
- Dec20,
+ Dec21, I used to make a prediction "Use SeeLayer to Build SeeLayer", today's supabase tutorial video is an example.
 
 Dec18, read an article about superhuman, their speed to test new functions is advanced, and the operation teams collect users' reaction is also the pioneer of PMF. 《把 AI 邮件工具做到 3500 万美元 ARR，Superhuman：找到 PMF 其实有明确的方法论》 https://mp.weixin.qq.com/s/HXrO-lVyKQ19hk6UF6XLcw
 
