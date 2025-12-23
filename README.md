@@ -1,6 +1,6 @@
 # SeeLayer
 
-Dec22,
+Dec23, When I ssee some books about how to use artificial intelligence software, I couldn't help but sigh: Technology is changing so fast. Will readers feel outdated after reading paper books? If a separate section of SeeLayer's official website is built as an e-book UI, then if the author updates and maintains it, readers will always see the latest content.
 
 Dec21, I used to make a prediction "Use SeeLayer to Build SeeLayer", today's supabase tutorial video is an example. Supabase Full Course 2025 from PedroTech, the video is uploaded on Apr 15,2025, just 8 months later, the official web is different from what his video present. So i have to type RLS template, and find the API from Setting page. Later I will make several SeeLayer pages to re-show his work, and with his original audio.
 
