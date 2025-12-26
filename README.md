@@ -1,5 +1,5 @@
 # SeeLayer
-Dec26
+Dec26, happy 132 years birthday, Chairman MAO!
 
 Dec24, images upload to Supabase Storage's bucket.
 
