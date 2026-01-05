@@ -1,6 +1,6 @@
 # SeeLayer
 
-2026Jan5
+2026Jan5, i finally figure out these tool is used for. Trae is the IDE, for coding and AI assistant. Vercel is for frontend, Clerk is for user authentication, Supabase is for backend, perhaps we need an AWS OSS for image storage(money saving), and these are combination of SeeLayer.
 
 Dec30, when i hear Manus is acquired, i'm shocked, we may copy their success in 2026.
 
