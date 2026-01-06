@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jan8
+Jan8,
 
 2026Jan5, i finally figure out these tool is used for. Trae is the IDE, for coding and AI assistant. Vercel is for frontend, Clerk is for user authentication, Supabase is for backend, perhaps we need an AWS OSS for image storage(money saving), and these are combination of SeeLayer. It takes me 2 days to learn Vercel's functions, and i learn how to branch a test environment. Common sense for coders, but new to me. When i build next program, i will choose Next.js as front frame as well, due to Vercel is updating it.
 
