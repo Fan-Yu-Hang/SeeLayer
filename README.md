@@ -1,6 +1,8 @@
 # SeeLayer
 
-Jan9, English version official web is ready.
+Jan9, I find another usage for SeeLayer, App preview. Maccy is a good tool for Mac paste(clipboard), but it cost 9 dollars, I have 2 paste tools already, should I pay for new? If someone has a tutorial of this tiny function App, it may attract me to buy it.
+
+Jan8, English version official web is ready.
 
 2026Jan5, i finally figure out these tool is used for. Trae is the IDE, for coding and AI assistant. Vercel is for frontend, Clerk is for user authentication, Supabase is for backend, perhaps we need an AWS OSS for image storage(money saving), and these are combination of SeeLayer. It takes me 2 days to learn Vercel's functions, and i learn how to branch a test environment. Common sense for coders, but new to me. When i build next program, i will choose Next.js as front frame as well, due to Vercel is updating it.
 
