@@ -1,4 +1,5 @@
 # SeeLayer
+Jan12
 
 Jan9, I find another usage for SeeLayer, App preview. Maccy is a good tool for Mac paste(clipboard), but it cost 9 dollars, I have 2 paste tools already, should I pay for new? If someone has a tutorial of this tiny function App, it may attract me to buy it. This is not like official introduction, rather lower the barrier for new users, more like a KOC's recommendation. Like Clerk, if i don't watch coder Jing's real interface, i may quit.
 
