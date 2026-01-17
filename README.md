@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jan18, I'm 
+Jan18, I'm ready to publish the 
 
 Jan12, download a Mac App 进度条条, for easier make Progress bar or timeline in video. Even this tiny function has an App.
 
