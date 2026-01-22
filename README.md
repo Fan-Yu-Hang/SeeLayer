@@ -1,4 +1,7 @@
 # SeeLayer
+
+Jan22
+
 Jan19, cost me 300$ to let coder Pan teach me how to link supabase and clerk. Although he use Cursor with Supabase MCP, and it doesn't work due to anon_key is lack on Vercel. Coder Pan promise to help me link successfully.
 
 Jan18, I'm ready to publish the BP, with personal version and business version.
