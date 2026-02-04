@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jan30, hire a coder Mr.WANG from RedNote, who claim he master supabase. 
+Jan30, hire a coder Mr.WANG from RedNote, with 40$ per hour, who claim he master supabase. And now we can add images into database, with personal dashboard and Layers.
 
 Jan24, the Trae cannot add Supabase MCP, waste much time.
 
