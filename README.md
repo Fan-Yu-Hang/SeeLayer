@@ -1,10 +1,12 @@
 # SeeLayer
 
+Feb7, coder Mr.WANG Jie guides me again, use 11labs to finish TTS.
+
 Feb6, coder Guo help me to check the database.
 
 Feb5, users, tasks, layer_box, these are related Supabase tables. I'm happy to know not just images, but text(.CSV) and audio can store in Supabase storage. And Cursor helps to test export users' file tables.
 
-Jan30, hire a coder Mr.WANG from RedNote, with 40$ per hour, who claim he master supabase. And now we can add images into database, with personal dashboard and Layers.
+Jan30, hire a coder Mr.WANG Jie from RedNote, with 40$ per hour, who claim he master supabase. And now we can add images into database, with personal dashboard and Layers.
 
 Jan24, the Trae cannot add Supabase MCP, waste much time.
 
