@@ -1,6 +1,6 @@
 # SeeLayer
 
-Feb7, coder Mr.WANG Jie guides me again, use 11labs to finish TTS.
+Feb7, coder Mr.WANG Jie guides me again, now audio is allowed to upload, tomorrow we may use 11labs to finish TTS.
 
 Feb6, coder Guo help me to check the database.
 
