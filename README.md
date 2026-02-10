@@ -1,4 +1,5 @@
 # SeeLayer
+Feb8, take 4 bloody hours to seperate database and add a new table, just for multi-images upload. I don't think we need to add TTS now, as an update surprise in next 3 months.
 
 Feb7, coder Mr.WANG Jie guides me again, now audio is allowed to upload, tomorrow we may use 11labs to finish TTS.
 
