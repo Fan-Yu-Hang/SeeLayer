@@ -1,4 +1,6 @@
 # SeeLayer
+Feb
+
 Feb8, take 4 bloody hours to seperate database's original table into 2 new tables, just for multi-images upload, and combine image area elements to an IFrameEditorCard. I don't think we need to add TTS now, as an update surprise in next 3 months.
 
 Feb7, coder Mr.WANG Jie guides me again, now audio is allowed to upload, tomorrow we may use 11labs to finish TTS.
