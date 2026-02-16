@@ -1,5 +1,6 @@
 # SeeLayer
-Feb13, combine official web to business plan.
+
+Feb13, combine official web to business plan. With 1 page readme and 6 subtitles, 
 
 Feb8, take 4 bloody hours to seperate database's original table into 2 new tables, just for multi-images upload, and combine image area elements to an IFrameEditorCard. I don't think we need to add TTS now, as an update surprise in next 3 months.
 
