@@ -1,5 +1,5 @@
 # SeeLayer
-Feb21,
+Feb22, talk with Mr.Wang, CEO of TongShu Tech. He is my WeChat Aerospace group frirnd, and also a potential customer to use SeeLayer. Mr.Wang share his BP, i learn a lot about how to set my shares frame.
 
 Feb13, combine official web to business plan. With 1 page readme and 6 subtitles, 
 
