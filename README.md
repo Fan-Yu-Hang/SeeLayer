@@ -1,4 +1,10 @@
 # SeeLayer
+Feb26 I found that each product does have certain cognitive limits, which are called paradigms in professional terms. Users are accustomed to its certain positioning, and it is actually difficult to play new tricks and have to play on new platforms. For example, the background information about Gerald "Runner" Brown provided by this group member can definitely be found on military forums, but there is nothing on Zhihu.
+
+Duan Yongping's long-term active website, Snowball, I have also observed recently. It is indeed different from Zhihu. There is a "mentioned stocks" button in the lower right corner of the post, which is more convenient for investment groups to retrieve information.
+
+This is both a limitation and an opportunity for new products, and if the age groups of the two products are different, the gap will be even greater. After the acquisition of Instagram in 2010, many young people fled from Facebook to Instagram because they did not want their parents to see their posts. Later, the younger Snapchat also had the same trend. Now, as a post-90s generation, I have no idea what Apps Euro-US children are playing.
+
 Feb22, 1 hour phone talk with Mr.Wang, CEO of TongShu Tech. He is my WeChat Aerospace group frirnd, and also a potential customer to use SeeLayer. Mr.Wang share his BP, i learn a lot about how to set my shares frame. Before i call him, yesterday I show the BP, and he send 3 groups of questions about VC's asking, financial, growing data, tech details. He praise me is a good start-up, understand the team’s shortcomings and has many precise development ideas.
 
 Feb13, finish official web to business plan(lack of finance). With 1 page readme and 6 subtitles. 
