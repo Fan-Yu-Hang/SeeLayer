@@ -1,5 +1,5 @@
 # SeeLayer
-Feb26 I found that each product does have certain cognitive limits, which are called paradigms in professional terms. Users are accustomed to its certain positioning, and it is actually difficult to play new tricks and have to play on new platforms. For example, the background information about Gerald "Runner" Brown provided by this group member can definitely be found on military forums, but there is nothing on Zhihu.
+Feb26, I found that each product does have certain cognitive limits, which are called paradigms in professional terms. Users are accustomed to its certain positioning, and it is actually difficult to play new tricks and have to play on new platforms. For example, the background information about Gerald "Runner" Brown provided by this group member can definitely be found on military forums, but there is nothing on Zhihu.
 
 Duan Yongping's long-term active website, Snowball, I have also observed recently. It is indeed different from Zhihu. There is a "mentioned stocks" button in the lower right corner of the post, which is more convenient for investment groups to retrieve information.
 
