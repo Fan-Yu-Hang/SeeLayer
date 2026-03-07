@@ -1,5 +1,6 @@
 # SeeLayer
-Feb27, 2nd time talk to Mr.Ge, CEO of docusign agent in China.
+
+Feb27, 2nd time talk to Mr.Ge, CEO of docusign agent in China. We talk a lot about workflow and how to manage our company with outsource, with even an hour control.
 
 Feb26, I found that each product does have certain cognitive limits, which are called paradigms in professional terms. Users are accustomed to its certain positioning, and it is actually difficult to play new tricks and have to play on new platforms. For example, the background information about Gerald "Runner" Brown provided by this group member can definitely be found on military forums, but there is nothing on Zhihu.
 
