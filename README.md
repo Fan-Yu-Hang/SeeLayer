@@ -1,6 +1,6 @@
 # SeeLayer
 
-2026Mar10, i make a dream, phone talk with FA Mrs.Song, with a complete conversation, i can even remember many details, like product roadshow. Her voice is mumbling, and too fast, when i wake up, so thankfully this is not real
+2026Mar10, i make a dream, phone talk with FA Mrs.Song, with a complete conversation, i can even remember many details, like product roadshow. Her voice is mumbling, and too fast, when i wake up, so thankfully this is not real.
 
 Feb27, 2nd time talk to Mr.Ge, CEO of docusign agent in China. We talk a lot about workflow and how to manage our company with outsource, with even an hour control.
 
