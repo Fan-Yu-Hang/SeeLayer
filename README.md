@@ -1,6 +1,6 @@
 # SeeLayer
 
-Mar13, 1 hour WeChat phone call with Mrs.Zhang RongRong, my former colleage. She live in Toronto, Canada.
+Mar13, 1 hour WeChat phone call with Mrs.Zhang RongRong, my former colleage. She live in Toronto, Canada, ready to have promotion campaign for SeeLayer. 
 
 2026Mar10, i make a dream, phone talk with FA Mrs.Song, with a complete conversation, i can even remember many details, like product roadshow. Her voice is mumbling, and too fast, when i wake up, so thankfully this is not real.
 
