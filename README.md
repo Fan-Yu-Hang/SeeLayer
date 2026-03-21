@@ -1,7 +1,7 @@
 # SeeLayer
-Mar21k, D2 conference again, advanced tech.
+Mar21, Alibaba's D2 conference again, advanced tech.
 
-Mar19, edit 5 intro videos.
+Mar20, write an Email to Silicon Valley 101~
 
 Mar13, 1 hour WeChat phone call with Mrs.Zhang RongRong, my former colleage. She live in Toronto, Canada, ready to have promotion campaign for SeeLayer. 
 
