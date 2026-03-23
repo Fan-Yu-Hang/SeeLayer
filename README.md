@@ -1,7 +1,7 @@
 # SeeLayer
 Mar21, Alibaba's D2 conference again, advanced tech.
 
-Mar20, write an Email to Silicon Valley 101~ Their video of Ski Fiance is so professional, i research the
+Mar20, write an Email to Silicon Valley 101~ Their video of Ski Fiance is so professional, i research the map and make sure
 
 Mar13, 1 hour WeChat phone call with Mrs.Zhang RongRong, my former colleage. She live in Toronto, Canada, ready to have promotion campaign for SeeLayer. 
 
