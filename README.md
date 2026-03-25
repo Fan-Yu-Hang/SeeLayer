@@ -1,7 +1,7 @@
 # SeeLayer
 
 
-Mar24, i rewatch Silicon Valley, S3E6
+Mar24, i rewatch Silicon Valley, S3E6, Richard Hendricks reject to publish the beta Pied Piper, 
 
 Mar21, Alibaba's D2 conference again, advanced tech.
 
