@@ -1,6 +1,6 @@
 # SeeLayer
 
-Apr4
+2026Apr2 I open the app 番茄小说(fanqienovel.com) find they can watch video, and open the app 红果短剧(novelquickapp.com) find they can read article, this is to magic, their taste almost
 
 2026Apr1, how ironic user research truly is! It is akin to an ordinary person prescribing their own medication, many cannot even clearly articulate what ailment they are suffering from, let alone prescribe a remedy based on actual medical needs.
 
