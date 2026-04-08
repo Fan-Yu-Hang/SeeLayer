@@ -1,5 +1,7 @@
 # SeeLayer
 
+Apr7
+
 2026Apr2 I open the app 番茄小说(fanqienovel.com), discover that it offers short-form dramas, then, open the app 红果短剧(novelquickapp.com) and find that it allows you to read novels. This is to magic, their taste almost satisfy same group of people, and their interfaces are highly similar — except that their most popular features are exact opposites. As the most widely used reading app in China, Fanqie features a function for commenting on individual sentences within a text—and can even generate AI-powered video comments based on the surrounding context—making it well worth a closer look.
 
 2026Apr1, how ironic user research truly is! It is akin to an ordinary person prescribing their own medication, many cannot even clearly articulate what ailment they are suffering from, let alone prescribe a remedy based on actual medical needs.
