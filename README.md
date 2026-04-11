@@ -1,6 +1,6 @@
 # SeeLayer
 
-Apr11, 
+Apr11, i 
 
 Apr10, I spend over two hours this afternoon trying to figure out the easiest way to import music into a video. NetEase, QQ, KuGou, and Qishui Music—none of them are hassle-free. You’d think Qishui and CapCut would be compatible since they’re both from ByteDance, but they aren’t, and their music libraries are limited. In the end, I just put “add” before the YouTube URL to download the audio myself and got it done.
 
