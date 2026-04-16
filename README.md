@@ -1,6 +1,6 @@
 # SeeLayer
 
-Apr15
+Apr16, My
 
 Apr13, the two investors I meet yesterday don’t even know what Manus is, it is a complete waste of my time, not to mention the 100 yuan I cost on coffee. I spend the entire meeting explaining SeeLayer to them, and one of them just stare at her computer the whole time, completely disinterested, as if learning something new has nothing to do with her. Luckily, on my way back, I find a proofreader on Xiaohongshu. After I left a comment praising her work, she reach out to me looking for a job. We talk for over an hour this morning. Actually, her skills exceeded my expectations—she just isn’t very proficient with the software yet. The bigger problem is that I don’t have a clear plan for the role myself. Even for Outsourcing, I need to provide very detailed requirements.
 
