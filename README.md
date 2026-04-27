@@ -2,7 +2,7 @@
 
 Apr24, Multi-Keyword Highlighter, a Chrome plug-in.
 
-Apr20, text-well.com
+Apr20, text-well.com,
 
 Apr 16, my proodreader is brainstorming a proofreading tool that use AI to make her main job easier; her boyfriend is handling the coding, while she serves as the product manager. After reviewing the prototype, I suggest adding a feature to compare the text against the original. In my Chrome bookmarks, I have a code comparison platform that I originally chose because of its attractive interface. If we rely entirely on AI, it might correct some parts, but there’s a high chance the original text could also be altered. During our interview, she showe me an article she’d edited using AI, and it has even omit the author’s table. After hearing my suggestion, she admit it is very helpful.
 
