@@ -1,6 +1,6 @@
 # SeeLayer
 
-2026May, i restart the outsource team.
+2026May1, i restart the outsource team.
 
 Apr24, Multi-Keyword Highlighter, a Chrome plug-in.
 
