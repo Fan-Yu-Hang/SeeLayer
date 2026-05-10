@@ -1,6 +1,6 @@
 # SeeLayer
 
-May9, figure out why the FIFA
+May9, figure out why the China has to pay $150 million in FIFA broadcast fees, and CCTV isn’t buying it, but neighboring Japan paid $200 million?
 
 2026May1, i restart the outsource team.
 
