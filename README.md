@@ -1,6 +1,6 @@
 # SeeLayer
 
-May9, figure out why China has to pay $150 million in FIFA broadcast fees, and CCTV isn’t buying it, but neighboring Japan paid $200 million?
+May9, try to figure out why China has to pay $150 million in FIFA broadcast fees, and CCTV isn’t buying it, but neighboring Japan paid $200 million? the timezone is not friendly to east asian countries.
 
 2026May1, i restart the outsource team.
 
