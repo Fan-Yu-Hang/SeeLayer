@@ -1,5 +1,5 @@
 # SeeLayer
-May12, 
+May12, Mrs.Stella, a UI designer, give me advice about design skills to promote SeeLayer's interface.
 
 May9, try to figure out why China has to pay $150 million in FIFA broadcast fees, and CCTV isn’t buying it, but neighboring Japan paid $200 million? the timezone is not friendly to east asian countries.
 
