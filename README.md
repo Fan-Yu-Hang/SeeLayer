@@ -1,6 +1,6 @@
 # SeeLayer
 
-May14, i get a new Chrome plug-in MURMRAY, it is an opportunity radar for Polymarket signals. The moment i have a try, and realise a new scene for SeeLayer, because i don't know how to use Polymarket. 
+May14, i get a new Chrome plug-in MURMRAY, it is an opportunity radar for Polymarket signals. The moment i have a try, and realise a new scene for SeeLayer, because i don't know how to use Polymarket, even as simple to copy the address(0x...). This is too hard for a non-English user. If i have a tutorial webpage from SeeLayer, this process will be easier.
 
 May12, Mrs.Stella, my college senior classmate, now is a UI designer, give me advice about design skills to promote SeeLayer's interface.
 
