@@ -1,4 +1,7 @@
 # SeeLayer
+
+May14, i get a new Chrome plug-in MURMRAY, it is an opportunity radar for Polymarket signals. The moment i have a try, and realise a new scene for SeeLayer, because i don't know how to use Polymarket. 
+
 May12, Mrs.Stella, my college senior classmate, now is a UI designer, give me advice about design skills to promote SeeLayer's interface.
 
 May9, try to figure out why China has to pay $150 million in FIFA broadcast fees, and CCTV isn’t buying it, but neighboring Japan paid $200 million? the timezone is not friendly to east asian countries.
