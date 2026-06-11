@@ -3,7 +3,7 @@
 
 Jun7, skill switch, a girl who also live in YuHang district, is willing to switch her photographer skill to switch my English. I prepare 10 weeks class for her, make sure she can listen and speak when travel abroad.
 
-2026Jun5, apply a domain and a mini-App. For CHEN HaoYu(Amy)
+2026Jun5, apply a domain and a mini-App. For CHEN HaoYu(Amy).
 
 May30, happy birthday to myself~ design a silver necklace for her
 
