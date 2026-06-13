@@ -1,7 +1,7 @@
 # SeeLayer
 
 
-Jun7, skills switch, a girl who also live in YuHang district, is willing to switch her photographer skill to switch my English. I prepare 10 weeks class for her, make sure she can listen and speak when travel abroad.
+Jun7, skills switch, a girl who also live in YuHang district, is willing to switch her photographer skill to switch my English. I prepare 10 weeks class, make sure she can listen and speak when travel abroad.
 
 2026Jun5, apply a domain and a mini-App. For CHEN HaoYu(Amy).
 
