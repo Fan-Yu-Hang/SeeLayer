@@ -7,7 +7,7 @@ Jun7, skills switch, a girl who also live in YuHang district, is willing to swit
 
 May30, happy birthday to myself~ design a silver necklace for her
 
-May27, ready to buy my idol Chen HaoYu's ticket. July31, See you in HangZhou~
+May27, ready to buy my idol Chen HaoYu's ticket, Prima Facie. July31, See you in HangZhou~
 
 May14, i get a new Chrome plug-in MURMRAY, it is an opportunity radar for Polymarket signals. The moment i have a try, and realise a new scene for SeeLayer, because i don't know how to use Polymarket, even as simple to copy the address(0x...). This is too hard for a non-English user. If i have a tutorial webpage from SeeLayer, this process will be easier.
 
