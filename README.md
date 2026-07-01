@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jun28
+Jun28, Miss HU bring a pragmatic idea.
 
 Jun18, the name of mini-App is called 昊宇眠丝(HaoYu's Fans); HaoYu is the Pinyin of 昊宇; 眠 comes from her English name Amy, sounds like 安眠, means sleeping tight; 丝 means fans.
 
