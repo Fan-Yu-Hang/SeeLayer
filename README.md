@@ -1,6 +1,6 @@
 # SeeLayer
 
-Jun28, Miss HU bring a pragmatic idea. She is familiar with exhibition, and know their most need. Exhibition maps are usually displayed as PDFs, but because they contain so much information, it’s difficult to quickly find details about a specific booth.
+Jun28, Miss HU bring a pragmatic idea. She is familiar with exhibition, and know their most need. Exhibition maps are usually displayed as PDFs, but because they contain so much information, it’s difficult to quickly find details about a specific booth. That belongs to SeeLayer's personal map.
 
 Jun18, the name of mini-App is called 昊宇眠丝(HaoYu's Fans); HaoYu is the Pinyin of 昊宇; 眠 comes from her English name Amy, sounds like 安眠, means sleeping tight; 丝 means fans.
 
