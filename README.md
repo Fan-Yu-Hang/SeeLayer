@@ -4,7 +4,7 @@ Jun28, Miss HU bring a pragmatic idea. She is familiar with exhibition, and know
 
 Jun18, the name of mini-App is called 昊宇眠丝(HaoYu's Fans); HaoYu is the Pinyin of 昊宇; 眠 comes from her English name Amy, sounds like 安眠, means sleeping tight; 丝 means fans.
 
-Jun7, skills switch, a girl named who also live in YuHang district, is willing to switch her photographer skill to switch my English. I prepare 10 weeks class, make sure she can listen and speak when travel abroad.
+Jun7, skills switch, a girl Miss HU who also live in YuHang district, is willing to switch her photographer skill to switch my English. I prepare 10 weeks class, make sure she can listen and speak when travel abroad.
 
 2026Jun5, i apply a domain and a mini-App. For CHEN HaoYu(Amy).
 
