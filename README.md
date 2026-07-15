@@ -1,5 +1,7 @@
 # SeeLayer
 
+July14, video 
+
 2026July10, the gold wire finally lay in the silver groove.
 
 Jun28, Miss HU bring a pragmatic idea. She is familiar with exhibition, and know their most need. Exhibition maps are usually displayed as PDFs, but because they contain so much information, it’s difficult to quickly find details about a specific booth. That belongs to SeeLayer's personal map.
