@@ -1,6 +1,6 @@
 # SeeLayer
 
-July14, video is ready
+July14, the video is ready
 
 2026July10, the gold wire finally lay in the silver groove.
 
