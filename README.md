@@ -1,6 +1,6 @@
 # SeeLayer
 
-July25,
+July25, the
 
 July14, the video is ready,
 
