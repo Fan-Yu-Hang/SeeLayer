@@ -1,6 +1,6 @@
 # SeeLayer
 
-July25, the,
+July31, watch Amy's Prima Facie, magnificent~
 
 July14, the video is ready,
 
