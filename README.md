@@ -1,6 +1,6 @@
 # SeeLayer
 
-2026Aug5, present
+2026Aug5, offer the first version of 昊宇眠丝's UI.
 
 July31, watch Amy's Prima Facie, magnificent~
 
