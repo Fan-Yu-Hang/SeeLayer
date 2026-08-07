@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug7, i just double the size of PDF.
+Aug7, i just double the size of PDF. Although i finally don't figure out why the print version PDF, after editing by Preview App from Mac, cannot save directly. Luckily, the UPDF can solve these problems.
 
 2026Aug5, offer the first version of 昊宇眠丝's UI.
 
