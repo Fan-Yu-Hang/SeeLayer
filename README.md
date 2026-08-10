@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug9, read cover to cover 
+Aug9, read Tanaka Kakuei's  cover to cover 
 
 Aug7, i just double the size of PDF. Although i finally don't figure out why the print version PDF, after editing by Preview App from Mac, cannot save directly. Luckily, the UPDF can solve these problems.
 
