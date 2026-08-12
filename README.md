@@ -1,5 +1,7 @@
 # SeeLayer
 
+Aug13
+
 Aug9, read Tanaka Kakuei's A Theory of the Remodeling of the Japanese Archipelago, cover to cover. I even think that if we revise many of the terms in it, it could be adapted into a Chinese urban transportation plan. https://ndpcdq918n.feishu.cn/drive/folder/KgwsfxwuXlCl8EdFwoVc3nFFn2e?from=from_copylink
 
 Aug7, i just double the size of PDF. Although i finally don't figure out why the print version PDF, after editing by Preview App from Mac, cannot save directly. Luckily, the UPDF can solve these problems.
