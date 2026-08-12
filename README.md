@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug13
+Aug13,
 
 Aug9, read Tanaka Kakuei's A Theory of the Remodeling of the Japanese Archipelago, cover to cover. I even think that if we revise many of the terms in it, it could be adapted into a Chinese urban transportation plan. https://ndpcdq918n.feishu.cn/drive/folder/KgwsfxwuXlCl8EdFwoVc3nFFn2e?from=from_copylink
 
