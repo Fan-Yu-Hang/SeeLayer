@@ -1,5 +1,7 @@
 # SeeLayer
 
+Aug25
+
 Aug17, i think a calculator for shopping price compare is fun.
 
 Aug9, read Tanaka Kakuei's A Theory of the Remodeling of the Japanese Archipelago, cover to cover. I even think that if we revise many of the terms in it, it could be adapted into a Chinese urban transportation plan. https://ndpcdq918n.feishu.cn/drive/folder/KgwsfxwuXlCl8EdFwoVc3nFFn2e?from=from_copylink
