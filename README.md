@@ -1,5 +1,7 @@
 # SeeLayer
 
+2026Sep4
+
 Aug29, the calculator has only 3 functions, price comparment, comment checking, personal shopping list.
 
 Aug17, i think a calculator for shopping price compare is fun.
