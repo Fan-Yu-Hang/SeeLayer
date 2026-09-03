@@ -1,6 +1,6 @@
 # SeeLayer
 
-Aug25,
+Aug29, the calculator
 
 Aug17, i think a calculator for shopping price compare is fun.
 
