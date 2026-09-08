@@ -1,6 +1,6 @@
 # SeeLayer
 
-2026Sep4
+2026Sep4,
 
 Aug29, the calculator has only 3 functions, price comparment, comment checking, personal shopping list.
 
