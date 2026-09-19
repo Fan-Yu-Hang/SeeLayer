@@ -1,6 +1,6 @@
 # SeeLayer
 
-2026Sep4,
+2026Sep16, join a wonderful wedding in WenZhou, Zhejiang.
 
 Aug29, the calculator has only 3 functions, price comparment, comment checking, personal shopping list.
 
