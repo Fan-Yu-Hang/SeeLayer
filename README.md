@@ -1,6 +1,6 @@
 # SeeLayer
 
-2026Sep16, join a wonderful wedding in WenZhou, Zhejiang. The 
+2026Sep16, join a wonderful wedding in WenZhou, Zhejiang. The bride is a Certified Public Accountant, her major is law, and give me some advice about BP. Before give it to investors, share the BP to her is a better idea.
 
 Aug29, the calculator has only 3 functions, price comparment, comment checking, personal shopping list.
 
